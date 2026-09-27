@@ -1,0 +1,17 @@
+cavalos
+potencia maxima
+torque max
+tamanho da cacamba
+capacidade de reboque
+tracao 4x4
+angulo de ataque
+angulo de saida
+vau maximo
+suspensao a ar
+aro das rodas
+consumo na estrada
+velocidade maxima
+0 a 100 km/h
+garantia de fabrica
+cor disponivel
+preco de tabela

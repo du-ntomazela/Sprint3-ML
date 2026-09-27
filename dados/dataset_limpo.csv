@@ -1,0 +1,3268 @@
+texto,atributo
+qual a tipo de freio,tipo_freio
+me diga a cor do veiculo,cor
+informe a numero de portas portas,numero_portas
+pesquisar km por litro na cidade,consumo_cidade
+dado de cor do veiculo,cor
+buscar tamanho da cacamba,capacidade_cacamba
+gostaria de saber a tela central do carro,sistema_infotainment
+valor de comprimento total,comprimento
+gostaria de saber o tempo de aceleracao,aceleracao_0_100
+me diga a tabela fipe,fora_do_catalogo
+informe o model year,ano_modelo
+valor de onde e fabricado,fora_do_catalogo
+qual e o tipo de suspensao,tipo_suspensao
+me diga a 0 a 100 km h segundos,aceleracao_0_100
+quai o 0 100 segundos,aceleracao_0_100
+me diga o qual a velocidade maxima ku h,velocidade_maxima
+me diga o quao largo e o carro,largura
+consumo combinado,consumo_combinado
+gostaria de saber o tanque de combustivel,capacidade_tanque
+quanto consome na cidade km l,consumo_cidade
+gostaria de saber o consumo medio geral,consumo_combinado
+autonomia maxima km,autonomia
+gostaria de saber o quanto pesa o carro,peso_vazio
+qual o valor de venda,preco
+informe o approach angle,angulo_ataque
+qual e o tipo de susensao,tipo_suspensao
+comparativo com concorrentes,fora_do_catalogo
+cilindrada do motor litros,cilindrada
+alcance com tanque cheio,autonomia
+me diga o trunk capacity litros,capacidade_porta_malas
+gostaria e saber a qual a velocidade maxima,velocidade_maxima
+quantos airbags,airbags
+me diga o peso maximo permtiido,peso_bruto
+informe o sistema de suspensao,tipo_suspensao
+numero de portas portas,numero_portas
+gostaria de saber a quantos cavalos,potencia
+dado de cavalos hp,potencia
+tabela fipe,fora_do_catalogo
+informe a tipo de transmissao,transmissao
+me diga o transmissao automatica ou manual,transmissao
+me diga o capacidade de reboque,capacidade_reboque
+angulo de saida graus,angulo_saida
+capacidade de reboque kg,capacidade_reboque
+qual a capacidade tanque combustivel,capacidade_tanque
+eficiencia na rodovia,consumo_estrada
+me diga a velocidade maxima,velocidade_maxima
+informe a quao alto e o carro mm,altura
+departure angle,angulo_saida
+me diga o capacidade do porta malas,capacidade_porta_malas
+quero saber sobre capacidade de tracionamento,capacidade_reboque
+gostaria de saber a km l cobminado,consumo_combinado
+valor de tipo de suspensao,tipo_suspensao
+me diga a cambio automatico,transmissao
+buscar comparativo com concorrentes,fora_do_catalogo
+me diga o eficiencia na cidade,consumo_cidade
+informe a cilindros do motor,numero_cilindros
+me diga o angulo de ataque graus,angulo_ataque
+informe o consumo na cidade,consumo_cidade
+gostaria de saber a peso do carro vazio kg,peso_vazio
+qual o tipo de traccao,tracao
+qual e o angulo de ataque graus,angulo_ataque
+informe o poder do motor hp,potencia
+gostaria de saber o bed capacity,capacidade_cacamba
+buscar quantidade de portas,numero_portas
+qtd de cilindros,numero_cilindros
+quanto tempo para chegar a 100 segundos,aceleracao_0_100
+me diga o capacidade maxima de peso kg,peso_bruto
+me diga o configuracao de cilindros,numero_cilindros
+quero saber sobre departuure angle,angulo_saida
+pesquisar preco r,preco
+qual a capaacidade de passageiros,numero_lugares
+consumo medio,consumo_combinado
+informe a altura em mm,altura
+informe o qual o ano do carro,ano_modelo
+dado degarantia de fabrica km,garantia
+me diga o capacidade de tracionamento,capacidade_reboque
+dado de quanto de agua o carro atravessa mm,profundidade_vau
+garanta,garantia
+buscar torque maximo,torque
+quero saber sobre tipo de suspensao,tipo_suspensao
+me diga a angulo de ataque rgaus,angulo_ataque
+pesquisar cilindrada,cilindrada
+dado de wheelbase,entre_eixos
+gostaria de saber a numero de cilindros,numero_cilindros
+informe o numero de lugares,numero_lugares
+me diga a abastece com o que,tipo_combustivel
+gostaria de saber a quanto pesa o carro,peso_vazio
+qual o freios dianteiros e traseiros,tipo_freio
+pesuisar trunk capacity,capacidade_porta_malas
+buscar distancia com um tanque,autonomia
+me dia o central multimidia polegadas,sistema_infotainment
+informe a forca do motor,potencia
+me diga a itens de serie,fora_do_catalogo
+gostaria de saber o aceleracao de 0 a 100,aceleracao_0_100
+qual e o peso do carro vazio kg,peso_vazio
+gostaria de saber o angulo de ataque,angulo_ataque
+gostaria de saber a quanto cabe na cacamba mm,capacidade_cacamba
+me diga a cilindros do motor,numero_cilindros
+gostaria de saber a sistema de suspennsao,tipo_suspensao
+quero saber sobre cv hp,potencia
+gostaria de saber a garantia do veiculo km,garantia
+qual o quantos litros cabe no tanque,capacidade_tanque
+tempo de garantia km,garantia
+dado dengasto de combustivel na cidade,consumo_cidade
+qual a suspension type,torque
+buscar km por litro na cidade,consumo_cidade
+informe o peso curb weightt kg,peso_vazio
+gostaria de saber o eficiencia na cidade km l,consumo_cidade
+valor de aplicativo do carro,fora_do_catalogo
+informe a camera de re,sensor_estacionamento
+pesquisar consumo estrada,consumo_estrada
+me diga a volume do tanque litros,capacidade_tanque
+dado de comprimento total,comprimento
+buscar gross venicle weight kg,peso_bruto
+qual o peso maximo rebocavel kg,capacidade_reboque
+quero saber sobre tamanho da tela multimidia polegadas,sistema_infotainment
+quero saber sobre bed capacity,capacidade_cacamba
+dado de altura em relacao ao chao,vao_livre_solo
+qual a sistema de freios,tipo_freio
+qual e o cor do veicuuo,cor
+quero saber sobre quanto tempo para chegar a 100,aceleracao_0_100
+informe o capacidade de passageiros,numero_lugares
+gostaria de saber a angulo de saida,angulo_saida
+informe o quanto tempo de garantia,garantia
+numero de portas,numero_portas
+quero saber sobre gasolina ou diesel,tipo_combustivel
+pesquisar qual a cor,cor
+buscar angulo de entrada off road,angulo_ataque
+dado de diesel ou nlex,tipo_combustivel
+qual e o valor do carro,preco
+qual e o onde comprar,fora_do_catalogo
+me diga o suspension type,tipo_suspensao
+gostaria de saber o garantia do veiculo,garantia
+qual e o lagrura em mm m,largura
+informe o departure angle,angulo_saida
+me diga o opinioes de donos,fora_do_catalogo
+dimensoes da cacamba,capacidade_cacamba
+gostaria de saber a garantia,garantia
+buscar sistema de suspensao,tipo_suspensao
+dado de departture angle graus,angulo_saida
+medida entre eixos,entre_eixos
+potenciaa maxima do motor ps,potencia
+quero sabernsobre qual a velocidade maxima,velocidade_maxima
+qual e o tempo de aceleracao s,aceleracao_0_100
+gostaria de saber o horsepower,potencia
+qual o ano do carro,ano_modelo
+gostaria de saber a diametro das roodas,diametro_rodas
+me diga o consumo estrada,consumo_estrada
+informe a drivetran,tracao
+valor de volume do porta malas,capacidade_porta_malas
+qual e o camera de re,sensor_estacionamento
+pesquisar autonomia,autonomia
+quero saber sobre numero de portas portas,numero_portas
+quero saber sobre central multimidia polegadas,sistema_infotainment
+qual a largura sem espelhos m,largura
+me diga a forca de torque nm,torque
+gostaria de saber o cambio,transmissao
+qal e o preco,preco
+abastece com o que,tipo_combustivel
+valor de distancia com um tanque km,autonomia
+qual o largura em mm mm,largura
+informe a torque maximo lb ft,torque
+qual a quanto custa,preco
+qual a garantia de fabrica anos,garantia
+pesquisar ano de fabricacao,ano_modelo
+buscar sensor de re,sensor_estacionamento
+me diga o gross vehicle weight,peso_bruto
+informe o ed e 2 ou 4 portas,numero_portas
+qual a altura do veiculo,altura
+informe o taxa de juros do financiamento,fora_do_catalogo
+gostaria de saber a freios dianteiros e traseiros,tipo_freio
+qual a sistmea de freios,tipo_freio
+tipo de combustivel,tipo_combustivel
+gostaria de saber o angulo de saida off road,angulo_saida
+informe a quanto consomena cidade,consumo_cidade
+informe o sistema de som,fora_do_catalogo
+valor de cavalos de forca,potencia
+me diga a acessorios originais,fora_do_catalogo
+qual a valor de venda,preco
+me diga a quanto cuta,preco
+qual e o assistente de estacionamento,sensor_estacionamento
+pesquisar gasto de combustivel na cidade km l,consumo_cidade
+quero saber sobre cor do veiculo,cor
+dado de quao largo e o carro,largura
+informe a quantidade de portas,numero_portas
+velocidade maxima,velocidade_maxima
+informe a media de consumo km l,consumo_combinado
+pesquisar consumo rodoviario km l,consumo_estrada
+largura total,largura
+qual a tipo de transmissao,transmissao
+vallor de garantia de fabrica,garantia
+informe a sistema de suspensao,tipo_suspensao
+quantos litros cabe no tanque,capacidade_tanque
+gostaria de saber o quantos km roda com tanque cheio,autonomia
+informe a autonomia do tanque,autonomia
+me diga a capacidade de passageiros pessoas,numero_lugares
+qual e o freios dianteiros e traseiros,tipo_freio
+pesquisar preco sugerido,preco
+informe o km por litro na cidade,consumo_cidade
+qual a aro das rodas polegadas,diametro_rodas
+me diga a consumo na estrada,consumo_estrada
+informe o consumo na estrada,consumo_estrada
+atura em mm,altura
+informe a largura em mm,largura
+valor de ano do modelo,ano_modelo
+valor de alcance com tanque cheio,autonomia
+qual a qual o ano do carro,ano_modelo
+gostaria de saber o autonomia,autonomia
+informe o assistente de faixa,fora_do_catalogo
+buscar capacidaade de carga util,capacidade_carga
+gostaria de saber o central multimidia polegadas,sistema_infotainment
+quero saber sobre tamanho da cacamba mm,capacidade_cacamba
+valor de media de consumo,consumo_combinado
+gostaria de saber o tamanho do porta malas,capacidade_porta_malas
+qual o numero de portas,numero_portas
+cor so veiculo,cor
+me diga a aceleracao de 0 a 100,aceleracao_0_100
+informe o fuel type,tipo_combustivel
+informe o combustivel usado,tipo_combustivel
+tamanho do carro,comprimento
+altura livre do solo,vao_livre_solo
+informe a valor de venda reais,preco
+qual a torque em kgfm,torque
+valor de angulo de saida off road,angulo_saida
+valor de km por litro na estrada,consumo_estrada
+qual e o consumo na cidade,consumo_cidade
+tempo de aceleracao,aceleracao_0_100
+qual e o quanto pode rebocar,capacidade_reboque
+gostaria de saber a massa em ordem de marcha,peso_vazio
+gostaria de saber o largura total,largura
+informe o infotainment,sistema_infotainment
+qual o opcoes de cor,cor
+buscar preco r,preco
+qual e o comprimento,comprimento
+gotaria de saber o tamanho do tanque,capacidade_tanque
+valor de capacidade do porta malas,capacidade_porta_malas
+buscar camera de re,sensor_estacionamento
+gostaria de saber a potencia,potencia
+quero saber sobre qual o ano do carro,ano_modelo
+informe o brake type,tipo_freio
+me diga o tipo de combbustivel,tipo_combustivel
+qual e o numero de marchas,transmissao
+qual e o nngulo de entrada off road,angulo_ataque
+valou de garantia,garantia
+informe o quantos km roda co mtanque cheio,autonomia
+qual a airbags de serie unidades,airbags
+me diga o opiniao sobre o design,fora_do_catalogo
+gosstaria de saber o numero de portas portas,numero_portas
+qual a quao alto e o carro,altura
+vale a pena comprar,fora_do_catalogo
+qual o tamanho do tanque,capacidade_tanque
+dado de torque do motor,torque
+me diga o largura total mm,largura
+me digaa tamanho do porta malas,capacidade_porta_malas
+gostaria de saber a consumo urbano,consumo_cidade
+qual o tipo de freio,tipo_freio
+cor do veiculo,cor
+informe o tets solar disponivel,fora_do_catalogo
+volume do porta malas l,capacidade_porta_malas
+dado de aro das rodas polegadas,diametro_rodas
+pesquisar peso em ordem de marcha,peso_vazio
+dado de quantas portas tem portas,numero_portas
+qual e o wading depth,profundidade_vau
+gostaria de saber a approach angle,angulo_ataque
+informe a quantas portass tem,numero_portas
+dado de e 4x4o u nao,tracao
+buscar displacement,cilindrada
+informe a aneulo de ataque graus,angulo_ataque
+pesquilar capacidade da cacamba,capacidade_cacamba
+gostaria de saber o quantas pessoas cabem,numero_lugares
+qual a airbags disponiveis,airbags
+quero saber sobre que combustivel usa,tipo_combustivel
+valor de approach angle graus,angulo_ataque
+buscar sistema multimidia polegadas,sistema_infotainment
+me diga a climatizacao do banco,fora_do_catalogo
+me diga a camera de estacionamento,fora_do_catalogo
+vao livre do solo mm,vao_livre_solo
+me diga a km por litro na cidade,consumo_cidade
+quaal a ano modelo,ano_modelo
+qual e o gearbox,transmissao
+informe a horse power,potencia
+cor disponivel,cor
+buscar motor v6 ou v8,numero_cilindros
+qual e o tamanho da cacamba,capacidade_cacamba
+quero sbaer sobre peso maximo rebocavel kg,capacidade_reboque
+informea quanto consome na estrada,consumo_estrada
+pesquisar wifi no carro,fora_do_catalogo
+qal a tipo de tracao,tracao
+largura em mm m,largura
+me diga oc ores disponiveis,cor
+qual a aceleracao de 0 a 1000 s,aceleracao_0_100
+valor de aceleracao de 0 a 100,aceleracao_0_100
+buscar consumo urbano km l,consumo_cidade
+comprimento do veicluo,comprimento
+qunto tempo de garantia anos,garantia
+buscar quantidade de marchas,transmissao
+buscar medida entre eixos mm,entre_eixos
+gostaria de saber a altura em relacao ao chao mm,vao_livre_solo
+gostaria de saber o acessorios originais,fora_do_catalogo
+informe a quantas portas tem,numero_portas
+garantia de fabrica anos,garantia
+qual a onde comprrar,fora_do_catalogo
+dado de valor do carro,preco
+me diga o numero de airbags,airbags
+buscar bed capacity,capacidade_cacamba
+qual o km por litro na estrada,consumo_estrada
+me diga o departure angle,angulo_saida
+gostaria de saber a cavaalos de potencia hp,potencia
+qual o capacidade de vau,profundidade_vau
+qual o quantas portas tem portas,numero_portas
+valor de quantos cavalos hp,potencia
+qual e o angulo de saida off road graus,angulo_saida
+preco sugerido r,preco
+informe o largura sem espelhos,largura
+quero saber sobre preco sugerido reais,preco
+bustar ano modelo,ano_modelo
+qual e o infotainment,sistema_infotainment
+gostaria dee saber o material do banco,fora_do_catalogo
+qual o quantas portas tem,numero_portas
+informe a aro das rodas,diametro_rodas
+qual o tamanoh da cacamba litros,capacidade_cacamba
+pesquisar carga util,capacidade_carga
+gostaria de saber a suspension type,tipo_suspensao
+qual o largura,largura
+informe a capacidade de passageiros pessoas,numero_lugares
+qual o tanque de combustivel,capacidade_tanque
+valor de piloto automatico adaptativo,fora_do_catalogo
+me diga o numero de lugarees,numero_lugares
+pesquisar quantidade de marchas,transmissao
+quero saber sobre central mlutimidia,sistema_infotainment
+qual a acessorios originais,fora_do_catalogo
+gostaria de saber o camera de re,sensor_estacionamento
+informe a consumo urbnao,consumo_cidade
+qual o capacidade de carga util,capacidade_carga
+qual a altura em mm,altura
+pesquisar peso maximo rebocavel,capacidade_reboque
+assistente de voz do carro,fora_do_catalogo
+buscar sistema de freios,tipo_freio
+quantas pessoas cabem pessoas,numero_lugares
+valor de capacidade da cacamba,capacidade_cacamba
+qoal o altura em relacao ao chao,vao_livre_solo
+consumo medio km l,consumo_combinado
+informe o top speed km h,velocidade_maxima
+uqal a aceleracao zero a cem s,aceleracao_0_100
+tamanho do aro polegadas,diametro_rodas
+gostaria de saber o angulo de saida,angulo_saida
+gostaria de saber a quantos lugares,numero_lugares
+me diga a peso vazio,peso_vazio
+me diga o profundidade de vau mm,profundidade_vau
+informe o garantia de fabrica,garantia
+me diga o qual a velocidade maxima,velocidade_maxima
+qual o ano modelo,ano_modelo
+me diga o ano de fabricacao,ano_modelo
+informe a e de 2 ou 4 portas,numero_portas
+trunk capacity,capacidade_porta_malas
+massa em ordem de marcha,peso_vazio
+alcance com tanque cheio km,autonomia
+capacidade de vau,profundidade_vau
+quero saber sobre quantos litros o motor tem,cilindrada
+medid das rodas,diametro_rodas
+qual e o altura,altura
+qual e o tamanho do tanque litros,capacidade_tanque
+gostaria de saber a cores disponiveis,cor
+me diga a tamanho da cacaamba,capacidade_cacamba
+quero saber sobre distancia com um tanque,autonomia
+me diga a altura do veiculo m,altura
+pesquisar quantos litros cabe no tanqui l,capacidade_tanque
+larggura do veiculo mm,largura
+valor de profundidade maxima de aggua,profundidade_vau
+gostaria de saber o wading depth mm,profundidade_vau
+me diga a suspension tpe,tipo_suspensao
+potencia,potencia
+informe a alcance com tanque cheio,autonomia
+informe o cilindmada,cilindrada
+dado de freios dianteiros e traseiros,tipo_freio
+dado de consumo rodooviario km l,consumo_estrada
+gostaria de saber o vao livre do solo,vao_livre_solo
+tamanho da tela multimidia,sistema_infotainment
+angulo de ataque graus,angulo_ataque
+valor de torque em nm,torque
+km l combinado,consumo_combinado
+informe o torque maximo,torque
+me diga o tipo de freio,tipo_freio
+capacidade do porta malas litros,capacidade_porta_malas
+valor de agendar test drive,fora_do_catalogo
+informe o conectiviadde bluetooth,fora_do_catalogo
+informe o quantos litros o motor tem,cilindrada
+volume da cacamba mm,capacidade_cacamba
+qual e o velocidade maxima,velocidade_maxima
+qual a eficiencia na cidade km l,consumo_cidade
+e de 2 ou 4 portas,numero_portas
+altura do veiculo,altura
+informe o tipo de combustivel,tipo_combustivel
+valor de angulo de saida graus,angulo_saida
+qual a quantos km roda com tanque cheio,autonomia
+me diga o tempo de aceleracao,aceleracao_0_100
+gostaria de saber a quantas portas tem,numero_portas
+informe o telefone da revunda,fora_do_catalogo
+valor de melhor configuracao para familia,fora_do_catalogo
+gostaria de saber a numero de asrbags,airbags
+buscar altura,altura
+infotainment polegdas,sistema_infotainment
+buscar cambio automatico,transmissao
+pesquisar potencia maxima,potencia
+pesquisar garantia de fabrica,garantia
+informe a velocidade maxima,velocidade_maxima
+sensor de re,sensor_estacionamento
+valor de consumorurbano km l,consumo_cidade
+vaolr de angulo de saida graus,altura
+gostaria de saber o profundidade de vau mm,profundidade_vau
+valor de sistema de tracao,tracao
+gostaria de saber o camera 360,sensor_estacionamento
+dado de ano modelo,ano_modelo
+informe a angulo de ataque,angulo_ataque
+me diga a anglo de ataque graus,angulo_ataque
+numero de cilindros,numero_cilindros
+infome o gasto de combustivel na cidade km l,consumo_cidade
+buscar profundidade maxima de agua,profundidade_vau
+0 a 100 km h,aceleracao_0_100
+valor de tamanho do porta malas litros,capacidade_porta_malas
+meddida entre eixos,entre_eixos
+qual e o epsaco entre os eixos mm,entre_eixos
+me diga a consumo na cidade km l,consumo_cidade
+gostaria de saber o sistema multimidia polegadas,sistema_infotainment
+numero de marchas,transmissao
+departur angle,angulo_saida
+me diga a comprimento em mm m,comprimento
+me diga o precorr,preco
+gostaria de saber a tamanho do motor cm3,cilindrada
+km l combinado km l,consumo_combinado
+gostaria de saber o altura do veiculo,altura
+buscarwheelbase,entre_eixos
+me diga a angulo de ataque,angulo_ataque
+gostaria des aber a consumo combinado km l,consumo_combinado
+qual a cor,cor
+me diga o central multimidia,sistema_infotainment
+me diga a capacidade da cacamba,capacidade_cacamba
+dado de quantos litros cabe no tanque litros,capacidade_tanque
+quero saber sobre freio a disco ou tambor,tipo_freio
+informe a pbt,peso_bruto
+qual e o opiniao sobre o design,fora_do_catalogo
+buscar quantidade de lugares,numero_lugares
+me diga a tamanho da tela multimidia polegadas,sistema_infotainment
+quero saber sobre quao largo e o carro,largura
+dado de sistem de suspensao,tipo_suspensao
+qual a tempo de aceleracao segundos,aceleracao_0_100
+quero saber sobre preco sugerido,preco
+informe o altura em relacao ao chao mm,vao_livre_solo
+qual o garantia de fabrica km,garantia
+dado de preco de tabela r,preco
+informe o quao comprido e o carro,comprimento
+freios dianteiros e traseiros,tipo_freio
+suspensao dianeira e traseira,tipo_suspensao
+gostaria de sabe a capacidade da cacamba,capacidade_cacamba
+pesquisar freios dianteiros e traseiros,tipo_freio
+gostaria desaber o angulo de ataque graus,angulo_ataque
+gostaria de saber o cilindradas l,cilindrada
+buscar sistema de tracao,tracao
+pesquisar consumo na ciade,consumo_cidade
+qual e o comprimento do veiculo mm,comprimento
+me dia a eficiencia na cidade,consumo_cidade
+qual o tamanho do aro,diametro_rodas
+consumo rodoviario,consumo_estrada
+me diga o brake type,tipo_freio
+informe a ano modelo,ano_modelo
+quero saber sobre quanto tempo de garantia,garantia
+informe a capacidade de passageiros,numero_lugares
+buscar configuracao de cilindros,numero_cilindros
+qual o altura do veiculo,altura
+informe a volume do tanque,capacidade_tanque
+altura livre do solo mm,vao_livre_solo
+pesquisar garantia anos,garantia
+qual a central multimidia,sistema_infotainment
+gostaria de saber a quantos litros cabe no tanque l,capacidade_tanque
+informe o consumo medio,consumo_combinado
+me diga a sistema multimidia,sistema_infotainment
+gostaria de saber o quantas portas tem,numero_portas
+qual e o displacement litros,cilindrada
+qual e o towing capacity,capacidade_reboque
+informe a espaco entre os eixo mm,entre_eixos
+me diga a torque do motor,torque
+quero saber sobre cmobustivel usado,tipo_combustivel
+informe trunk capacity litros,capacidade_porta_malas
+qual a quantos cavalos,potencia
+dado de tamanho do aro aro,diametro_rodas
+informe o tamanho da cacamba,capacidade_cacamba
+sistema de suspensao,tipo_suspensao
+qual o largura em mm m,largura
+informe o quantidade de lugares pessoas,numero_lugares
+qual o numero do lugares lugares,numero_lugares
+qual a angulo de sida,angulo_saida
+motor v6 ou v8,numero_cilindros
+tamanho do tanque,capacidade_tanque
+me diga o e de 2 ou 4 portas portas,numero_portas
+informe o valor de venda,preco
+gostaria de saber o capacidade de tracionamento kg,capacidade_reboque
+buscar capacidadesdo motor litros,cilindrada
+informe a cores disponiveis,cor
+gostaria de saber a entre eixos mm,entre_eixos
+qual a media de consumo,consumo_combinado
+pesquisar camera de estacionamento,fora_do_catalogo
+gostaria de saber a alcance com tanque cheio,autonomia
+gostaria de saber a que combustivel usa,tipo_combustivel
+qual a teto solar disponivel,fora_do_catalogo
+qual e o 0 100,aceleracao_0_100
+gostaria de saber a horario de funcionamento da loja,fora_do_catalogo
+informe o itens de serie,fora_do_catalogo
+dado de cor disponivel,cor
+buscar top speed km h,velocidade_maxima
+gostaria de saber o pacotes de acessorios,fora_do_catalogo
+suspension tyype,tipo_suspensao
+consumo urbano,consumo_cidade
+informe o capacidade de vau,profundidade_vau
+quero saber sobre distanca ao solo,vao_livre_solo
+me diga a quanto consome na cidade km l,consumo_cidade
+qual a freios dianteiros e traseiros,tipo_freio
+tipo de suspensao,tipo_suspensao
+qual e o abastece com o que,tipo_combustivel
+distancia ao solo mm,vao_livre_solo
+gostaria de saber a largura total mm,largura
+buscar brake type,tipo_freio
+dado de airbags de serie unidades,airbags
+peso vazio kg,peso_vazio
+dado de tela central do carro polegadas,sistema_infotainment
+dado de quanto consome na cidade,consumo_cidade
+comprrimento em mm,comprimento
+gostaria de saber o infotainment,sistema_infotainment
+pesquisar tipo de combustivel,tipo_combustivel
+quero saber sobre cor disponivel,cor
+qual o sistema multimmidia,sistema_infotainment
+dado de preco,preco
+dado de manual do proprietario,fora_do_catalogo
+dado de litragem do motor l,cilindrada
+quero saber sobre capacidade do porta malas,capacidade_porta_malas
+qual a capaciddae de passageiros,numero_lugares
+qual o tipo de transmissao,transmissao
+valor de assistente de voz do carro,fora_do_catalogo
+me diga a garantia,garantia
+pesquisar dnivetrain,tracao
+quero saber sobre wading depth,profundidade_vau
+qual e o quanto consome na cidade,consumo_cidade
+informe o numero de marchas,transmissao
+dado de tamanho do tanque,capacidade_tanque
+me diga a velocidade final,velocidade_maxima
+me diga a ano do modelo,ano_modelo
+informe o tela central do carro polegadas,sistema_infotainment
+preco sugerido reais,preco
+me diga o trunk capacity,capacidade_porta_malas
+qual a cavalos de forca,potencia
+gostaria de saber o model year,ano_modelo
+dado de distancia com um tanque,autonomia
+qual e o gasto de combustivel na cidade km l,consumo_cidade
+me diga a assistente de estacionamento,sensor_estacionamento
+valor de angulo de saida off road graus,angulo_saida
+informe a peso maximo rebocavel,capacidade_reboque
+me diga o angulo de saida,angulo_saida
+buscar drivetarin,tracao
+valor de distancia ao solo mm,vao_livre_solo
+informe a payload,capacidade_carga
+quanto de agua o carro atravessa,profundidade_vau
+quanto consome na cidade,consumo_cidade
+qual e o autonomia do tanque km,autonomia
+me diga a sistemaa multimidia,sistema_infotainment
+pesquisar entre eixos mm,entre_eixos
+quero saber sobre comprimento do veiculo mm,comprimento
+informe o capacidade do porta malas,capacidade_porta_malas
+gearbox,transmissao
+me diga o largura do veiculo,largura
+perquisar autonomia,autonomia
+buscar tempo de garantia anos,garantia
+wading depth,profundidade_vau
+informe o tipo de transmissao,transmissao
+bed capacity,capacidade_cacamba
+model year,ano_modelo
+quero saber sobre trunk capacity l,capacidade_porta_malas
+dado de tamanho do carro,comprimento
+informe a cores dispooniveis,cor
+me diga a tempo de aceleracao segundos,aceleracao_0_100
+qual o assistente de estacionamento,sensor_estacionamento
+buscar poder do motor cv,potencia
+me diga o quanto pode carregar,capacidade_carga
+me diga o gross vehicle weight kg,peso_bruto
+gostaria de saber o largura,largura
+me digaeo tipo de suspensao,tipo_suspensao
+angulo de saida off road,angulo_saida
+pesquisar valor de venda,preco
+qual e o largura,largura
+qual o quanto pode carregar,capacidade_carga
+gostaria de saber a quao largo e o carro,largura
+me diga o opcoes de cor,cor
+qual e o nuemro de marchas,transmissao
+pbt,peso_bruto
+qual a peso do carro vazio kg,peso_vazio
+informe o quantidade de lugares pesssoas,numero_lugares
+qual a configuracao d ecilindros cilindros,numero_cilindros
+informe a tipo de transmisssao,transmissao
+gostaria de saber o departure angle graus,angulo_saida
+qual a capacidade do tanque,capacidade_tanque
+gostaria de saber o garnatia km,garantia
+qual o infotainment,sistema_infotainment
+tempo de garantia,garantia
+dado de aro das rodas em polegadas polegadas,diametro_rodas
+informe o garantia de fabrica km,garantia
+dado de preco r,preco
+dado de torque em nm lb ft,torque
+qual e o quantas passoas cabem,numero_lugares
+capacidade de passageiros,numero_lugares
+infotainment,sistema_infotainment
+valor de garantia do veiculo,garantia
+me diga o preco,preco
+me diga a comprimento,comprimento
+buscar horario de funcionamento da loja,fora_do_catalogo
+tipo d esuspensao,tipo_suspensao
+informe a potencia maxima,potencia
+qual e o tipo de transmissao,transmissao
+informu a estilo do banco,fora_do_catalogo
+dado de angulo de saida off road graus,angulo_saida
+qual e o eficiencia na cidade,consumo_cidade
+qual o volume do porta malas,capacidade_porta_malas
+pesquisar quao comprido e o carro,comprimento
+me diga a quanto tempo de garantia,garantia
+me diga o camera3 60,sensor_estacionamento
+quero saber sobre quanto pesa o carro,peso_vazio
+qual a motor v6 ou v8,numero_cilindros
+informe o capacidade de reboque,capacidade_reboque
+quero saber sobre tipo de transmissao,transmissao
+qual o angulo de saida,angulo_saida
+qual e o altura em mm,altura
+tracao integral,tracao
+gostaria de saber a cambio,transmissao
+e 4x4 ou nao,tracao
+gostaria de sabre a quanto tempo para chegar a 100 s,aceleracao_0_100
+gostaria de saber o comprimento total,comprimento
+dado de garantia,garantia
+gostaria de saber a departure angle,angulo_saida
+quero saber soobre central multimidia,sistema_infotainment
+quero saber sobre profundidade maxima de agua,profundidade_vau
+wheel size polegadas,diametro_rodas
+pesquisar qual a vlocidade maxima km h,velocidade_maxima
+informe oquanto tempo para chegar a 100,aceleracao_0_100
+me diga o quantas portas tem,numero_portas
+dado de central multimidia,sistema_infotainment
+dado de seguro do veiculo,fora_do_catalogo
+espaco da cacamba,capacidade_cacamba
+gostaria de saber a espaco dac acamba,capacidade_cacamba
+me diga a capacidade maxima de peso,peso_bruto
+me diga o valor do carro,preco
+informe o ano de fabricacao,ano_modelo
+gostaria de saber o drivetrrain,tracao
+valor de departure angle,angulo_saida
+me diga a quanto custa r,preco
+pesquisar sistema de freios,tipo_freio
+torque amx nm,torque
+informe o massa em ordem de marcha,peso_vazio
+altura,altura
+me diga a capacidade de passageiros,numero_lugares
+qual e o distancia entre eixos mm,entre_eixos
+carga util,capacidade_carga
+qual o angulo de saida off road graus,angulo_saida
+me diga a angulo de ataque graus,angulo_ataque
+qual a profundidade de vau,profundidade_vau
+buscar nota do euro ncap,fora_do_catalogo
+aceleracao zero a cem,aceleracao_0_100
+qual o quantos lugares,numero_lugares
+gostaria de saber a historico da marca,fora_do_catalogo
+gostaria de sabeer o quantos lugares pessoas,numero_lugares
+numero de lugares,numero_lugares
+qual e o largura do veiculo mm,largura
+quero saber sobre entre eixos mm,entre_eixos
+quero saber sobre ano modelo,ano_modelo
+valor de combustivel usado,tipo_combustivel
+me diga a entre eixos mm,entre_eixos
+qual e o angulo de ataque,angulo_ataque
+qual o airbags de serie unidades,airbags
+informe a qtdude cilindros cilindros,numero_cilindros
+distancia entre eixos mm,entre_eixos
+informe a capacidade de vau,profundidade_vau
+quero saber snbre velocidade maxima km h,velocidade_maxima
+informe a freio a disco ou tambor,tipo_freio
+me diga o top speed km h,velocidade_maxima
+buscar numero de marchas,transmissao
+qual o consumo medio geral,consumo_combinado
+pesquisar profundidade maxima de agua,profundidade_vau
+qual o ano do modelo,ano_modelo
+buscar quantos cilindros,numero_cilindros
+capaidade de carga util,capacidade_carga
+informe o media de consumo,consumo_combinado
+gostaria de saber a tipo de suspensao,tipo_suspensao
+me diga a altura em relacao ao chao,vao_livre_solo
+qual a aro das rodas em polegadas polegadas,diametro_rodas
+gostaria de saber a garantia de fabrica km,garantia
+valor de opcoes de cor,cor
+qual a largura sem espelhos,largura
+dado de suspensao dianteira e traseira,tipo_suspensao
+quero saber sobre quantos litros o motor tem litros,cilindrada
+qual o alcance com tanque cheio km,autonomia
+que combustivel usa,tipo_combustivel
+informe o angulo de saida,angulo_saida
+ao modelo,ano_modelo
+qual a tipo de tracao,tracao
+gross vehicle weight,peso_bruto
+qual e o consumo icdade km l,consumo_cidade
+me diga a volume do porta malas,capacidade_porta_malas
+vaalor de quantos km roda com tanque cheio,autonomia
+dado de angulo de entrada off road,angulo_ataque
+quantos km roda com tanque cheio,autonomia
+medida das rodas aro,diametro_rodas
+latura em mm,altura
+me diga o autonomia maxima,autonomia
+diensoes da cacamba,capacidade_cacamba
+sistema de freios,tipo_freio
+dado de sensor de estacionamento,sensor_estacionamento
+buscar ano de fabricacao,ano_modelo
+me diga o velocidade final,velocidade_maxima
+me diga a quantos litros o motor tem,cilindrada
+gostaria de saber o qual o ano do carro,ano_modelo
+dado de extensao do veiculo,comprimento
+buscar cor do veiculo,cor
+me diga o peso vazio,peso_vazio
+me diga o alttura,altura
+me diga o largura,largura
+gostaria de saber o tanque de cmbustivel l,capacidade_tanque
+gostaria de saber o capacidade de vau,profundidade_vau
+buscar peso maximo permitido kg,peso_bruto
+gostaria de saber a tamanho da cacamba,capacidade_cacamba
+me diga a configuracao de cilindros cilindros,numero_cilindros
+historico da marca,fora_do_catalogo
+profundidade de vau,profundidade_vau
+me diga a camera 360,sensor_estacionamento
+dado de quantos lugares,numero_lugares
+pesquisar garantia,garantia
+quantiddae de marchas,transmissao
+quero saber sobre central multimidia,sistema_infotainment
+capacidade da cacamba,capacidade_cacamba
+qual a quantos cilindros cilindros,garantia
+me diga o qtd de cilindros,numero_cilindros
+valor de carga util,capacidade_carga
+valor de drivetrain,tracao
+me diga o km ll combinado,consumo_combinado
+quero ssaber sobre quao alto e o carro mm,altura
+informe o anggulo de ataque graus,angulo_ataque
+dado de capacidade de carga util kg,capacidade_carga
+valor de assistente de estacionamento,sensor_estacionamento
+qual e o distancia com um tanque km,autonomia
+qual o camear de re,sensor_estacionamento
+qual o 0 a 100 km h,aceleracao_0_100
+capacidade do porta malas,capacidade_porta_malas
+gostaria de saber o sistema multimidia,sistema_infotainment
+dado de approach angle graus,angulo_ataque
+qual a tamanho do tanque,capacidade_tanque
+qual a quantos litros cabe no tanque l,capacidade_tanque
+informe o itens opcionais,fora_do_catalogo
+buscar quantos litros cabe no tanque,capacidade_tanque
+gostaria de saber o media de consumo km l,consumo_combinado
+gostaria de saber a cor do veiculo,cor
+quantsa portas tem portas,numero_portas
+qual e o consumo medio geral,consumo_combinado
+quero saber sobre tamanho da cacamba,capacidade_cacamba
+qual o numero de airbags,airbags
+qual o quanto tempo de garantia,garantia
+gostaria de saber a qual o ano do carro,ano_modelo
+qual a garantia de fabrica km,garantia
+valor de quantidade de portas,numero_portas
+tipo de tracao,tracao
+informe o preco de tabela,preco
+gostaria de sater o profundidade maxima de agua,profundidade_vau
+informe a capacidade maxima de peso,peso_bruto
+altura do veiculo mm,altura
+metdiga a valor de venda r,preco
+qual e o tipo de tracao,tracao
+pesquisar trque maximo nm,torque
+angulo de entrada off road,angulo_ataque
+gostaria de saber o tipo de transmissao,transmissao
+qual a quanto pode carregar kg,capacidade_carga
+me diga a qual a cor,cor
+consumo cidade km l,consumo_cidade
+qual e o central multimidia,sistema_infotainment
+gostaria de saber a sensor de estacionamento,sensor_estacionamento
+gostaria de saber o garantia,garantia
+informe a comprimento do veiculo,comprimento
+qual a capacidade de carga util,capacidade_carga
+informe a qual a evlocidade maxima,velocidade_maxima
+informe a ano de fabricacao,ano_modelo
+informe a tanque de combustivel,capacidade_tanque
+buscar diesel ou flex,tipo_combustivel
+altura total,altura
+pesquisar quantos lugares,numero_lugares
+qual e o tela central do carro,sistema_infotainment
+quero saber sobre quantidade de airbags unidades,airbags
+gostaria de saber a tempo de aceleracao,aceleracao_0_100
+qual o qual a velocidade maxima km h,velocidade_maxima
+me diga o melhor configuracao para familia,fora_do_catalogo
+gostaria de saber a quantidade de marchas,transmissao
+pesquisar gearbox,transmissao
+me diga a autonomia maxima,autonomia
+valor de entre eixos,entre_eixos
+qual o quao largo e o carro,largura
+numero de lugares lugires,numero_lugares
+buscar peso em ordem de marcha,peso_vazio
+quero saber sobre revisao programada,fora_do_catalogo
+me diga o sensor de re,sensor_estacionamento
+largura,largura
+qual a capacidade do tanque litros,capacidade_tanque
+qual a estilo do banco,fora_do_catalogo
+me diga consumo rodoviario,consumo_estrada
+quero saber sobre e de 2 ou 4 portas portas,numero_portas
+hp hp,potencia
+quaal a sistema de suspensao,tipo_suspensao
+pesquisar quantas pessoas cabem lugares,numero_lugares
+valor de sistema de suspensao,tipo_suspensao
+gostaria de saber a angulo de entrada off road,angulo_ataque
+consumo na estrada,consumo_estrada
+pesquisar capacidade de carga,capacidade_carga
+gostaria de saber a tipo de combustivel,tipo_combustivel
+dado de camera de re,sensor_estacionamento
+quero saber sobre consorcio do carro,fora_do_catalogo
+airbags de eerie unidades,airbags
+qual e o angulo de saida,angulo_saida
+valor de gasto de combustivel na cidade,consumo_cidade
+buscar sistema multimidia,sistema_infotainment
+dado de capacidade do porta malas,capacidade_porta_malas
+gasto de combustivel na estrada,consumo_estrada
+valor de numero cilindros,numero_cilindros
+valor de sensor de estacionamento,sensor_estacionamento
+pesquisar tamanho od carro mm,comprimento
+dado de peso maximo rebocavel,capacidade_reboque
+sistema multimidia polegadas,sistema_infotainment
+me diga a numero de lugares,numero_lugares
+me diga a sistemalde freios,tipo_freio
+informe a preco sugerido,preco
+me diga a carga util,capacidade_carga
+gostaria de saber o tamanho da tela multimidia,sistema_infotainment
+pesquisar tipo de tracao,tracao
+qual o e 4x4 ou nao,tracao
+dado de top speed km h,velocidade_maxima
+informe o 0 100,aceleracao_0_100
+me diga o data de lancamento do modelo,fora_do_catalogo
+gostaria de asber a cor do veiculo,cor
+me diga o ano modelo,ano_modelo
+qual angulo de saida,angulo_saida
+valor de quantas portas tem,numero_portas
+me diga o comprimento mm,comprimento
+valord e numero de portas,numero_portas
+gostaria de saber o quanto cabe na cacamba,capacidade_cacamba
+valor de revennda do carro usado,fora_do_catalogo
+qual a assistente de voz do carro,fora_do_catalogo
+me diga a preco de tabela r,preco
+peso curb weight kg,peso_vazio
+informe a potencia maxima cv,potencia
+reclamacoes no procon,fora_do_catalogo
+quantidade de portas,numero_portas
+pesquisar volume do porta malas litros,capacidade_porta_malas
+informe o freios dianteiros e traseiros,tipo_freio
+dado de capacidade de carga util,capacidade_carga
+valor de volume do porta mlaas,capacidade_porta_malas
+qual e o media de consumo km l,consumo_combinado
+pesquisar consumo urbano km l,consumo_cidade
+garantia do veiculo,garantia
+quero saber sobre velocidade maxima km h,velocidade_maxima
+qual o compriemnto m,comprimento
+quero saber sobre quantidade de lugares,numero_lugares
+qual a suspensao dianteira e trasiira,tipo_suspensao
+gostaria de saber o e de 2 ou 4 porats,numero_portas
+buscar capacidade de passageiros,numero_lugares
+me diga a capacidade do motor,cilindrada
+gostaria de saber o departure angle,angulo_saida
+gostaria de saber a sistema de freios,tipo_freio
+aro das rodas aro,diametro_rodas
+qual o quantidade de lugares pessoas,numero_lugares
+qual e o angulo de entrada off road,angulo_ataque
+informe a tamanho do aro,diametro_rodas
+me diga o consumo urbano,consumo_cidade
+quero saber sobre quantos litros cabe no tanque,capacidade_tanque
+me diga a quant otempo para chegar a 100 s,aceleracao_0_100
+me diga a autonomia,autonomia
+cnmprimento em mm,comprimento
+gostaria de saber o peso maximo permitido,peso_bruto
+pesquisar cavalos hp,potencia
+valor de gasto re combustivel na estrada,consumo_estrada
+gostaria de saber o quanto pode rebocar kg,capacidade_reboque
+gostaria de saber a consumo urbano km l,consumo_cidade
+informe a angulo de ataque graus,angulo_ataque
+dado de vao livre do solo,vao_livre_solo
+praco,sensor_estacionamento
+gostaria de saber o e de 2 ou 4 portas portas,numero_portas
+valor de aceleracao de 0 a 100 s,aceleracao_0_100
+revenda do carro usado,fora_do_catalogo
+me diga a consumo medio geral,consumo_combinado
+me diga a tipo de freio,tipo_freio
+valor de itens opcionais,fora_do_catalogo
+informe o quanto tempo de garantia km,garantia
+dado de motor em litros,cilindrada
+qual o preco reais,preco
+qua le o preco,preco
+buscar consumo urbano,consumo_cidade
+qual a diametro das rodas,diametro_rodas
+quanto custa,preco
+me diga a qual a velocidade maxima,velocidade_maxima
+quero saber sobre km por litro na cidade km l,consumo_cidade
+dado de brake type,tipo_freio
+valor de sistema multimidia,sistema_infotainment
+volume do porta malas,capacidade_porta_malas
+valor de diametro das rodas,diametro_rodas
+informe o quantos cavalos ps,potencia
+quero saber sobre cavalos,potencia
+buscar vao livre do solo mm,vao_livre_solo
+gostaria de saber o consumo na estrada km l,consumo_estrada
+dado de diametro das rodas,diametro_rodas
+me diga o freio a disco ou tambor,tipo_freio
+qual o preco de tabela,preco
+informe a angulo de saida graus,angulo_saida
+valor de abastece com o que,tipo_combustivel
+gostaria de saber o eficiencia na rodovia,consumo_estrada
+gostaria de sabeer a angulo de ataque graus,angulo_ataque
+qual o velocidade final,velocidade_maxima
+dado de tnaque de combustivel litros,capacidade_tanque
+qual o quao largo e o carro mm,largura
+preco,preco
+gostaria de saber a volume da cacamba,capacidade_cacamba
+quannto tempo de garantia anos,garantia
+quero saber sobre assistente de estacionamento,sensor_estacionamento
+capacidade tanque combustivel,capacidade_tanque
+informe a departure angle graus,angulo_saida
+qual o consumo geral do carro,consumo_combinado
+informe o preco,preco
+informe o approach angle graus,angulo_ataque
+assistente de estacionamento,sensor_estacionamento
+qual e o quao alto e o carro m,altura
+texto completamente aleatorio sem relacao nenhuma com carros nem nada,fora_do_catalogo
+gostaria de saber o central multimidia,sistema_infotainment
+pesquisar angulo de saida,angulo_saida
+quero saber sobre sistema de suspensao,tipo_suspensao
+informe a angulo de saida,angulo_saida
+buscar top speed,velocidade_maxima
+pesquisar numero cilindros cilindros,numero_cilindros
+qual o espaco da cacamba,capacidade_cacamba
+informe o consumo estrada,consumo_estrada
+qual e o brake type,tipo_freio
+me diga o comprimento,comprimento
+qual a angulo de ataque,angulo_ataque
+dado de consumo cidade km l,consumo_cidade
+otrque max,torque
+qual a volume do tanque litros,capacidade_tanque
+dado de cavalos,potencia
+gostaria de saber a sisstema multimidia,sistema_infotainment
+quero saber sobre alcance com tanque cheio,autonomia
+gostari ade saber a consumo geral do carro,consumo_combinado
+qual a combustivel usado,tipo_combustivel
+preco sugerido,preco
+dado de quanto consome na estrada km l,consumo_estrada
+qual e o medida das rodas,diametro_rodas
+transmissao automatica ou manual,transmissao
+me diga o bed capacity,capacidade_cacamba
+me diga a tanque de combustivel,capacidade_tanque
+torquue max lb ft,torque
+gostaria de saber o cor disponivel,cor
+informe a capacidade di porta malas,capacidade_porta_malas
+me diga o aro das rodas polegadas,diametro_rodas
+acessorios originas,fora_do_catalogo
+pesquisar qual a velocidade maxima,velocidade_maxima
+quero saber sobre transmissao automatica ou manual,transmissao
+me diga a tipo de combustivel,tipo_combustivel
+buscaruopcoes de cor,cor
+velocidade final km h,velocidade_maxima
+me diga a tracao 4x4 ou 4x2,tracao
+dado de carga util,capacidade_carga
+qual a ano de fabricacao,ano_modelo
+pesquisar capacidade de reboque,capacidade_reboque
+dado de peso do carro vazio kg,peso_vazio
+qual a sistema de suspnesao,tipo_suspensao
+qual a angulo de ataque graus,angulo_ataque
+informe o tipo de freio,tipo_freio
+me diga a melhor configuracao para familia,fora_do_catalogo
+pesquisar nota de seguranca,fora_do_catalogo
+largura do veiculo,largura
+qual e o tempo de garantia km,garantia
+dado de consumo na cidade km l,consumo_cidade
+informe o e de 2 ou 4 portas portas,numero_portas
+gostaria de saber a infotainment,sistema_infotainment
+informe o gearbox,transmissao
+quero saber sobre volume do porta malas,capacidade_porta_malas
+quero saber sobre garantia de fabrica anos,garantia
+buscar numero de lugares,numero_lugares
+valor de numero de cilindros,numero_cilindros
+dado de sistema de tracao,tracao
+qual o largura em mm,largura
+qual e o garantia,garantia
+gostaria de saber a profundidade maxima de agua mm,profundidade_vau
+dado de capacdade de reboque,capacidade_reboque
+qual a volume da cacamba,capacidade_cacamba
+towing capacrty,capacidade_reboque
+informe a quanto pode rebocar kg,capacidade_reboque
+pesquisar data de lancamento do modelo,fora_do_catalogo
+medida entre eixos mm,entre_eixos
+buscar recall do veiculo,fora_do_catalogo
+qual o capacidade tanque combustivel litros,capacidade_tanque
+gostaria de saber a tamanho da cacamba litros,capacidade_cacamba
+quero saber sobbre carga maxima,capacidade_carga
+valor de valor do seguro,fora_do_catalogo
+moedl year,ano_modelo
+qual a sistema de som,fora_do_catalogo
+qual a quanto cabe na cacamba,capacidade_cacamba
+qual a torque em nm kgfm,torque
+informe o quantos airbags unidades,airbags
+gostaria de saber o consumo rodoviario,consumo_estrada
+gostaria de saber o material do banco,fora_do_catalogo
+informe o largura em mm m,largura
+informe a qual a velocidade maxima,velocidade_maxima
+horsepower,potencia
+quero saber sobre approach angle,angulo_ataque
+qual e o quantidade de portas portas,numero_portas
+valor de capacidade do tanque,capacidade_tanque
+esnsor de re,sensor_estacionamento
+qual a quantas portas tem portas,numero_portas
+approach angle,angulo_ataque
+me diga cambio,transmissao
+gostaria de saber a wifi no carro,fora_do_catalogo
+ground clearance mm,vao_livre_solo
+qual a torque maximo,torque
+gostaria de saber o angulo de entrada off road,angulo_ataque
+quero saber sobre quantos km roda com tanque cheio,autonomia
+qual e o quanto de torque,torque
+horse power hp,potencia
+informe o eficiencia na cidade,consumo_cidade
+me diga a capacidade de carga util,capacidade_carga
+quero saber sobre drivetrain,tracao
+buscar gasolina iu diesel,tipo_combustivel
+me diga o largura sem espelhos mm,largura
+gostaria de saber a quanto tempo de garantia,garantia
+quero saber sobre quantas pessoas cabem pessoas,numero_lugares
+buscar qual a cor,cor
+gostaria de sber a autonomia km,autonomia
+gostaria de saber o tipo de suspensao,tipo_suspensao
+qual e o brake tye,tipo_freio
+informe a altura livre do solo,vao_livre_solo
+comprimento total,comprimento
+gostaria de saber e opcoes de cor,cor
+quero saber sobre volume do tanque l,capacidade_tanque
+qual o que combustivel usa,tipo_combustivel
+valor de quanto de agua o carro atravessa mm,profundidade_vau
+valor de altura,altura
+vleocidade maxima,velocidade_maxima
+buscar tipo de tracao,tracao
+gostaria deosaber a consumo medio geral,consumo_combinado
+valor de cor disponivel,cor
+qual a tanque de combustivel,capacidade_tanque
+buscar cilindrada do motor litros,cilindrada
+gostaria de saber o 0 a 100 km h segundos,aceleracao_0_100
+qual a tamanho da cacamba l,capacidade_cacamba
+buscar angulo de saida,angulo_saida
+avlor do carro,preco
+qual o departure angle,angulo_saida
+quero saber sobre preco,preco
+capacidade de vau mm,profundidade_vau
+qual o valor do carro reais,preco
+gostaria de saber a cavalos de forca,potencia
+cambio,transmissao
+qual e o quantidade de portas,numero_portas
+buscar eficiencia na rodovia km l,consumo_estrada
+dado de revisao programada,fora_do_catalogo
+me diga sistema de tracao,tracao
+me diga o gasto de combustivel na estrada km l,consumo_estrada
+gostaria de saber a carga maxima,capacidade_carga
+capacidade maxima de peso kg,peso_bruto
+pesquisar altura em mm,altura
+informe o pacotes de acessorios,fora_do_catalogo
+me diga o altura livre do solo mm,vao_livre_solo
+informe o preco de tabela reais,preco
+valor de financiamento disponivel,fora_do_catalogo
+pesquisar profundidade maxima de agua mm,profundidade_vau
+informe o autonomia maxima km,autonomia
+valor de quantos litros cabe no tanque,capacidade_tanque
+pesquisar cor da lataria mais vendida,fora_do_catalogo
+valor de tela central do carro polegadas,sistema_infotainment
+me diga o tempo de garantialkm,garantia
+gostaria de saber o capacidade de passageiros pesoas,numero_lugares
+gostaria de saber a quantidade de lugares,numero_lugares
+quero saber sobre tanque de combustivel litros,capacidade_tanque
+buscar tamanho da cacamba mm,capacidade_cacamba
+material do banco,fora_do_catalogo
+buscar largura do veiculo,largura
+quero saber sobre medida ntre eixos,entre_eixos
+qual e o cambio automatico,transmissao
+qual o tamanho do porta malas,capacidade_porta_malas
+cilindrada do motor,cilindrada
+gostaria de saber o volume do tanque,capacidade_tanque
+valor de ano de fabricacao,ano_modelo
+quero saber sobre angulo de saida off road,angulo_saida
+quero saber sobre consumo estrada,consumo_estrada
+quero saber sobre tempo de graantia,garantia
+horsepower cv,potencia
+gostaria de saber o quantos litros cabe no tanque,capacidade_tanque
+wheel size,diametro_rodas
+e d e2 ou 4 portas,numero_portas
+pesquisar sistema de tracao,tracao
+pesquisar altura em relacao ao chao mm,vao_livre_solo
+me diga o qual o nome do carro,fora_do_catalogo
+valor de motor v6 ou v8 cilindros,numero_cilindros
+me diga o comparativo com concorrentes,fora_do_catalogo
+largura em mm mm,largura
+qual e o capacidade do porta malas l,capacidade_porta_malas
+buscar central multimmidia,sistema_infotainment
+qual e o torque maximo nm,torque
+buscar quantas pessoas cabem,numero_lugares
+me diga a angulo de saida,angulo_saida
+quero saber sobre peso bruto total kg,peso_bruto
+informe o profundidade maxima de agua,profundidade_vau
+me diga o payload,capacidade_carga
+dado de top speed,velocidade_maxima
+qual a cor disponivel,cor
+valor de venda,preco
+gostaria de saber a garantia anos,garantia
+me diga o fuel type,tipo_combustivel
+informe o eficiencia na rodavia,consumo_estrada
+quero saber sobre quanto consome na cidade km l,consumo_cidade
+gostaria de saber o altura livre do solo mm,vao_livre_solo
+informe o gasto de combustivel na cidade km l,consumo_cidade
+informe o autonomia maxima,autonomia
+informe o poder do motor ps,potencia
+qual e o capacidade de tracionamento,capacidade_reboque
+gostaria de saber o 0 a 100 km h,aceleracao_0_100
+gostaria de saber a camera 360,sensor_estacionamento
+me diga o consumo medio km l,consumo_combinado
+torque max nm,torque
+me diga o aceleracao de 0 a 100,aceleracao_0_100
+gostaria de saber a torque em kgfm,torque
+quanto pode carregar,capacidade_carga
+informe a entre eixos,entre_eixos
+gostaria de saber a comprimento,comprimento
+qual o capacidade maxima de peso kg,peso_bruto
+me diga a quantos cavalos,potencia
+nota de seguranca,fora_do_catalogo
+consumoo rodoviario,consumo_estrada
+dado de cilindrada do motor,cilindrada
+me diga o 0 100,aceleracao_0_100
+qual a transmissao automatica ou manual,transmissao
+informe a quanto de agua ocarro atravessa,profundidade_vau
+sensor de estacionamento,sensor_estacionamento
+buscar alcance com tanque cheio,autonomia
+valord e acessorios originais,fora_do_catalogo
+gostaria de saber o distancia entre eixos mm,entre_eixos
+buscar tempo de garantia km,garantia
+buscar capaeidade de vau mm,profundidade_vau
+pesquisar camera de re,sensor_estacionamento
+tamanho do porta malas litros,capacidade_porta_malas
+valor de cambio automatico,transmissao
+gostaria de saber o quantidade de portas portas,numero_portas
+busca alcance com tanque cheio,autonomia
+informe o volume do tanque,capacidade_tanque
+buscar consumo rodoviario,consumo_estrada
+capcidade de vau,profundidade_vau
+informe a quanto de agua o carro atravessa,profundidade_vau
+valor de qual o ano do carro,ano_modelo
+quero saber sobre garantia,garantia
+gostaria de saber a garantia do veiculo,garantia
+central multimidia,sistema_infotainment
+pesquisar numero de airbags,airbags
+informe a numero de marchas,transmissao
+quero saber sobre departure angle graus,angulo_saida
+qual a payload kg,capacidade_carga
+capacidade da cacamba litros,capacidade_cacamba
+informe o largura mm,largura
+airbags de serie unnidades,airbags
+informe o quantos lugares,numero_lugares
+qual a velocidade maxia km h,velocidade_maxima
+qaul a peso maximo rebocavel kg,capacidade_reboque
+qual o aro das rodas polegadas,diametro_rodas
+uqal o gasto de combustivel na cidade,consumo_cidade
+brake type,tipo_freio
+qual e o drivetrain,tracao
+dado de largura sem espelhos m,largura
+km por litro na cidade km l,consumo_cidade
+buscar tamanho da tela multimidia,sistema_infotainment
+me diga a eficiencia na rodovia km l,consumo_estrada
+valor de aceleracao zero a cem,aceleracao_0_100
+me diga a quantos km roda com tanque cheio,autonomia
+me diga o km l combinado km l,consumo_combinado
+gostaria de saber o capacidade de tracionamento,capacidade_reboque
+pesquisar potencia maxima do motor,potencia
+informe a ano do modelo,ano_modelo
+buscar vao livre do solo,vao_livre_solo
+buscar angulo de aida,angulo_saida
+camera 360,tipo_freio
+gostaria de saber a brake tpe,tipo_freio
+pesquisar climatizacao do banco,fora_do_catalogo
+informe a abastece com o que,tipo_combustivel
+dado de quantidade de marchas,transmissao
+informe a angulo de saida off road,angulo_saida
+quero saber sobre preco de tabela,preco
+qual e o massa em ordem de marcha,peso_vazio
+buscar qual o nome do carro,fora_do_catalogo
+capacidade de carga util kg,capacidade_carga
+torque max,torque
+qual a sistema de tracao,tracao
+valor de velocidade final,velocidade_maxima
+qual o tela central do carro,sistema_infotainment
+informe a sensor de estacionamento,sensor_estacionamento
+torqme em nm,torque
+qual a preco,preco
+informe o quantos litros cabe no tanque l,capacidade_tanque
+informe o qual a cor,cor
+meidiga o angulo de ataque,angulo_ataque
+qual e o angulo de saida off road,angulo_saida
+informe a potencia maxnma,potencia
+informe a tipo de freio,tipo_freio
+informe a peso curb weight,peso_vazio
+dado de quanto pesa o carro,peso_vazio
+gostaria de saber a cilindros do motor cilindros,numero_cilindros
+gostaria de saber a compriemnto,comprimento
+gostaria de saber a vao livre do solo,vao_livre_solo
+valor de sensor de re,sensor_estacionamento
+pesquisar pbt,peso_bruto
+capacidade de reboque,capacidade_reboque
+gostaria de saber a largura do veiculo,largura
+dado de profundidade maxima de agua mm,profundidade_vau
+gostaria de saber o velocidade maxima km h,velocidade_maxima
+qual o consumo cidade km l,consumo_cidade
+me diga o largura em mm,largura
+qual o seguro do veiculo,fora_do_catalogo
+quero saber sobre carga maxima,capacidade_carga
+buscar altua total mm,altura
+gostaria de saber o quao largo e o carro mm,largura
+qual o comprimento em mm,comprimento
+qual e o sisema de freios,tipo_freio
+pesquisar garantia do veicculo km,garantia
+dado de velocidade final,velocidade_maxima
+gostaria de saber o torque maximo nm,torque
+informe a quantidade de airbags unidades,airbags
+gostaria de saber a potencia hp,potencia
+me diga a avaliacao dos jornalistas,fora_do_catalogo
+me dnga a ano do modelo,ano_modelo
+me diga o numero de portas,numero_portas
+pesquisar brake type,tipo_freio
+gostaria de saber a preco de tabela reais,preco
+uqal a largura sem espelhos m,largura
+pesquisar gasolina ou diesel,tipo_combustivel
+numero de airbags,airbags
+buscar tamanho do motor,cilindrada
+gostaria de saber a garantia de fabrica,garantia
+gostaria de saber a payload,capacidade_carga
+quero saber sobre fuel type,tipo_combustivel
+gostaria de saber a consumo na cidade,consumo_cidade
+informe a autonomia km,autonomia
+informe a quanto cabe na cacamba,capacidade_cacamba
+dado de garantia de fabrica km,garantia
+me diga a numero de marchas,transmissao
+me diga a capacidade de vau mm,profundidade_vau
+qual e o velocidade maxima km h,velocidade_maxima
+gostaria de saber a quanto pode rebocar,capacidade_reboque
+quero saber sobre aro das rodas em polegadas,diametro_rodas
+qual o volume do porta malas l,capacidade_porta_malas
+informe a angulo de entrada off road,angulo_ataque
+dado de wading depth,profundidade_vau
+dado de capacidade de vau,profundidade_vau
+me diga o displacement,cilindrada
+qual e o sistema de tracao,tracao
+largura em mm,largura
+qual a 0 a 100 km h s,aceleracao_0_100
+pesquisar que combustivel usa,tipo_combustivel
+me diga a itens opcionais,fora_do_catalogo
+qual o garantia anos,garantia
+buscar comprimento total,comprimento
+mediga a altura em relacao ao chao,vao_livre_solo
+me diga o numero cilindros,numero_cilindros
+angulo de saida,angulo_saida
+gostaria de saber a capacidade do prta malas l,capacidade_porta_malas
+buscar quanto tempo de garantia,garantia
+qual e o capacidade do tanque,capacidade_tanque
+gostaria de saber o quantidade de portas,numero_portas
+quantidade de portas portas,numero_portas
+qual o angulo de ataque,angulo_ataque
+informe a brake type,tipo_freio
+informe a central multimidia polegadas,sistema_infotainment
+quero saber sobre cambio,transmissao
+informe o tempo de aceleracao segundos,aceleracao_0_100
+pesquisar capacidade do tanque,capacidade_tanque
+informe o numero cilindros,numero_cilindros
+gostaria de saber o consumo geral do carro km l,consumo_combinado
+pesquisar quanto pode rebocar,capacidade_reboque
+informe a entre eixos mm,entre_eixos
+quero saber sobre massa em ordem de marcha,peso_vazio
+informe a largura do veiculo,largura
+informe o quantos km roda com tanque cheio,autonomia
+vao livre do solo,vao_livre_solo
+buscar ground clearance,vao_livre_solo
+valor de proxima geracao do modelo,fora_do_catalogo
+me diga a freios dianteiros e traseiros,tipo_freio
+pesquisar consumo na cidade,consumo_cidade
+me diga a gasto de combustivel na cidade,consumo_cidade
+gostaria de saber o peso vazio kg,peso_vazio
+me idga o ipva do carro,fora_do_catalogo
+dado de capacidade de reboque,capacidade_reboque
+informe a 0 100,aceleracao_0_100
+pesquisar peso bruto otal kg,peso_bruto
+gostaria de saber o numero de iugares,numero_lugares
+valor de espaco da cacamba,capacidade_cacamba
+gostaria de saber a climatizacao do banco,fora_do_catalogo
+dado de peso maximo rebocavel kg,capacidade_reboque
+me diga o preco sugerido reais,preco
+garantia de fabrica km,garantia
+me diga a displacement l,cilindrada
+qual e o quantas portas tem,numero_portas
+qual a volume do tanque,capacidade_tanque
+gostaria de saber a cor da lataria mais vendida,fora_do_catalogo
+gostaria de saber o 0 100 s,aceleracao_0_100
+suspensao dianteira e trmseira,tipo_suspensao
+quero saber sobre diesel ou flex,tipo_combustivel
+gostaria de saber a qtd de cilindros cilindros,numero_cilindros
+gostaria de saber o preco de tabela,preco
+diesel ou flex,tipo_combustivel
+me diga o altura em relacao ao chao,vao_livre_solo
+gostaria le saber o infotainment,sistema_infotainment
+valor de consumo geral do carro,consumo_combinado
+valor de tamanho do porta malas,capacidade_porta_malas
+qual e o velocidade final,velocidade_maxima
+valor de quanto pesa o carro kg,peso_vazio
+quanto consome na estrada km l,consumo_estrada
+gostaria de saber a capacidade de carga util,capacidade_carga
+informe o quanto pesa o carro,peso_vazio
+pesquisar quanto pode carregar,capacidade_carga
+dado de distacia ao solo,vao_livre_solo
+qual a capacidade do porta mals,capacidade_porta_malas
+qual a cilindrada do motor,cilindrada
+informe a horsepower ps,potencia
+informe o quantos km roda com tanque choio km,autonomia
+informe a consumo na estrada,consumo_estrada
+pesquisar quao largo e o carro m,largura
+gostaria de saber o cilindrada,cilindrada
+qual a consumo na estrada km l,consumo_estrada
+peso maximo permitido,peso_bruto
+valor de freios dianteiros e traseiros,tipo_freio
+gostaria de saber o angulo de entrada off road graus,angulo_ataque
+dado de estil odo banco,fora_do_catalogo
+gostaria de saber a preco sugerido,preco
+gostaria de saber a drivetrain,tracao
+valor de vao livre do solo,vao_livre_solo
+me diga o cores disponiveis,cor
+suspensao dianteira e traseira,tipo_suspensao
+qual e o distancia ao solo,vao_livre_solo
+gostaria de saber a numero de marchas,transmissao
+me diga a quanto pesa o carro,peso_vazio
+quero saber sobre motor v6 ou v8,numero_cilindros
+qual a espaco entre os eixos mm,entre_eixos
+buscar angulo dr ataque,angulo_ataque
+gostaria de saber o freio a disco ou tambor,tipo_freio
+qual quanto custa reais,preco
+me diiga a recall do veiculo,fora_do_catalogo
+informe a ground clearance mm,vao_livre_solo
+autonomia do tanque,autonomia
+quero saber sobre sensor de estacionamento,sensor_estacionamento
+pesquisar quanto tempo de garantia,garantia
+inform eo autonomia do tanque,autonomia
+gostaria de saber a ground clearance mm,vao_livre_solo
+buscar gasto de combustivel na estrada km l,consumo_estrada
+gostaria de saber a quantos litros cabe no tanque,capacidade_tanque
+gostaria de saber a camera de re,sensor_estacionamento
+me diga o consumo cidade,consumo_cidade
+garantiia anos,garantia
+informe a garantia anos,garantia
+dado de capacidade de carga uutil,capacidade_carga
+capacidade do tanque l,capacidade_tanque
+qual o eficiencia na rodovia,largura
+angulo de ataque,angulo_ataque
+quero saber sobre torque maximo,torque
+pesquisar wifi no caro,fora_do_catalogo
+capacidade do tanque,capacidade_tanque
+qual o quanto tempo para chegar a 100,aceleracao_0_100
+qual o trunk capacity,capacidade_porta_malas
+me diga o ano modeo,ano_modelo
+qual a numero cilindros,consumo_estrada
+tamanho do carro mm,comprimento
+quero saber sobre quanto de torque,torque
+tracao 4x4 ou 4x2,tracao
+infforme o potencia maxima ps,potencia
+qual e o model year,ano_modelo
+dado de numero de portas portas,numero_portas
+gostraia de saber o capacidade do motor,cilindrada
+qual e o valor de venda,preco
+quero saber sobre largura do veiculo,largura
+dado de tamanho do tanque l,capacidade_tanque
+me diga a camera de re,sensor_estacionamento
+qual o capacidade da cacamba,capacidade_cacamba
+gostaria de saber o motor v6 ou v8,numero_cilindros
+gostaria de saber o hp,potencia
+informe o melhor configuracao para familia,fora_do_catalogo
+altura m mm,altura
+valor de tamahno do carro,comprimento
+informe o quao alto e o carro,altura
+informe o aceleracao zero a cem,aceleracao_0_100
+qual a trque maximo nm,torque
+gostaria de saber o numero cilindros,numero_cilindros
+comprimento,comprimento
+gostaria de saber o capacidade maxima de peso,peso_bruto
+informe a tempo de aceleracao s,aceleracao_0_100
+informe o consumo medio geral,consumo_combinado
+gostaria de saber a e de 2 ou 4 portas portas,numero_portas
+dado de altura do veiculo m,altura
+valor de infotainment polegadas,sistema_infotainment
+quantas portas tem,numero_portas
+buscar velocidade maxima,velocidade_maxima
+qual a seguro do veiculo,fora_do_catalogo
+gostaria de saber a extensao do veiculo m,comprimento
+gostaria de saber a towing caacity,capacidade_reboque
+gostaria e saber a trunk capacity,capacidade_porta_malas
+valor de telefone da revenda,altura
+gostaria de saber o transmissao sutomatica ou manual,transmissao
+buscar tamanho do carro,comprimento
+valor de climatizacao do banco,fora_do_catalogo
+tanque de combustivel,capacidade_tanque
+distancia entre eixos,entre_eixos
+dado de tipo de tracao,tracao
+me diga o prfundidade de vau,profundidade_vau
+informe o capacidade da cacamba,capacidade_cacamba
+qual a garantia,garantia
+qual a comprimento,comprimento
+qual o qual a cor,cor
+me diga o quanto cabe na cacamba litros,capacidade_cacamba
+ifnorme o volume do tanque,capacidade_tanque
+buscarlcor do veiculo,cor
+me diga a qtd de cilindros cilindros,numero_cilindros
+me diga agarantia,garantia
+gostaria de saber a gasolina ou diesel,tipo_combustivel
+qual a capaciidade de reboque kg,capacidade_reboque
+buscar capacidade do porta malas l,capacidade_porta_malas
+sistema de tracao,tracao
+dado de peso em ordem de marhca,peso_vazio
+valor de sisetma de tracao,tracao
+quanto tempo para cheagr a 100 s,aceleracao_0_100
+qual e o m de torque,torque
+informe a capacidade de vau mm,profundidade_vau
+me diga o tipo de suspensao,tipo_suspensao
+informe o suspension type,tipo_suspensao
+espaco da cacamba mm,capacidade_cacamba
+me diga a quanto de agua o carro atravessa mm,profundidade_vau
+pesquisar towing apacity,capacidade_reboque
+me diga o volume do porta malas,capacidade_porta_malas
+gostaria de saber a nm de torque kgfm,torque
+qual o numero cilindros,numero_cilindros
+valor de onde comprar,fora_do_catalogo
+me diga o tamanho da cacamba,capacidade_cacamba
+informe o quantidade de portas,numero_portas
+valor de autonomia maxima km,autonomia
+informme a autonomia,autonomia
+informe a gasto de combustivel na cidade,consumo_cidade
+quero saber sobre consumo na estrada km l,consumo_estrada
+buscar freios dianteiros e traseiros,tipo_freio
+me diga o tamnaho da cacamba litros,capacidade_cacamba
+informe o qtd de cilindros,numero_cilindros
+qual o autonomia do tanque km,autonomia
+qual o combustivel usado,tipo_combustivel
+quero saber sobre angulo de saida,angulo_saida
+valor de suspension type,tipo_suspensao
+qual e o sistema de freios,tipo_freio
+informe a towing capacity,capacidade_reboque
+informe o towing capacity kg,capacidade_reboque
+informe a tamanho do carro,comprimento
+valor de suspensao dianteira e traseira,tipo_suspensao
+quero saber sobre camera de re,sensor_estacionamento
+pesquisar central multimidia,sistema_infotainment
+pesquisar numero de portas,numero_portas
+0 100 s,aceleracao_0_100
+itens opcionais,fora_do_catalogo
+gostaria de saber o wading depth,profundidade_vau
+gostaria de saber aaltura do veiculo mm,altura
+informe o distancia entre eixos,entre_eixos
+altua,altura
+qual e o itens de serie,fora_do_catalogo
+quantas pessoas cabem,numero_lugares
+buscar teto solar disponivel,fora_do_catalogo
+buscar suspension type,tipo_suspensao
+me diga o sensor de estacionamento,sensor_estacionamento
+gostaria de saber a manual do proprietario,fora_do_catalogo
+quero saber sobre gasto de combustivel na estrada,consumo_estrada
+dado de km por litro na estrada km l,consumo_estrada
+me diga o km por litro na cidade,consumo_cidade
+gostaria de saber a e de 2 ou 4 portas,numero_portas
+dado de massa em ordem de marcha,peso_vazio
+airbags disponiveis,airbags
+gostaria de saber a horse power,potencia
+qual a quantos litros cabe no tanque,capacidade_tanque
+informe o quantos litros cabe no tanque,capacidade_tanque
+pesquisar horsepower cv,potencia
+qual o angulo de saida off road,angulo_saida
+informe a sistema multimidia,sistema_infotainment
+dad de poder do motor ps,potencia
+informe a freios dianteiros e traseiros,tipo_freio
+ano modelo,ano_modelo
+quantidade de pertas portas,numero_portas
+gostaria de saber o capacidade do porta malas litros,diametro_rodas
+valor de consumo medio geral,consumo_combinado
+inform a cor do veiculo,cor
+qual e o espaco entre os eixos,entre_eixos
+qual a capacidade de passageiros lugares,numero_lugares
+torque lb ft,torque
+valor de vao livre dl solo,vao_livre_solo
+dado de peso em ordem de marcha,peso_vazio
+me diga a opinioes de donos,fora_do_catalogo
+valor dee quanto pode rebocar kg,capacidade_reboque
+me diga o amanho da cacamba litros,capacidade_cacamba
+pesquisar velocidade maxima,velocidade_maxima
+pesquisar cavalos de potencia,potencia
+buscarc apacidade de tracionamento,capacidade_reboque
+gostaria de saber a sistema multimidia polegadas,sistema_infotainment
+gostaria de saber o peso maximo rebocavel kg,capacidade_reboque
+me diga a numero de airbags unidades,airbags
+pesquisar aceleracao de 0 a 100 segundos,aceleracao_0_100
+valor de assistente de faixa,fora_do_catalogo
+qual e o peso bruto total,peso_bruto
+informe a tipo de tracao,tracao
+qual a 0 a 100 km h,aceleracao_0_100
+buscar diametro das rodas aro,diametro_rodas
+valor de velocidade maxima,velocidade_maxima
+informe a top speed,velocidade_maxima
+informe o quanto pesa o carro kg,peso_vazio
+informe a mtdel year,ano_modelo
+informe a capacidade de tracionamento,capacidade_reboque
+gostarria de saber a approach angle graus,angulo_ataque
+informe a carga util,capacidade_carga
+gostria de saber a peso do carro vazio,peso_vazio
+gostaria de saber o tipo d esuspensao,tipo_suspensao
+pesquisar anno de fabricacao,ano_modelo
+quero saber sobre peso bruto total,peso_bruto
+informe a model year,ano_modelo
+quero saber sobre qe combustivel usa,tipo_combustivel
+qual a aro das rodas,diametro_rodas
+valor de gasolina ou diesel,tipo_combustivel
+dado de tipo de suspensao,tipo_suspensao
+qual a capacidade do porta malas,capacidade_porta_malas
+me diga o quanto pode rebocar,capacidade_reboque
+enore eixos mm,entre_eixos
+me diga a sistemma de suspensao,tipo_suspensao
+valor de capacidadde de vau,profundidade_vau
+gostaria de saber o altura livre do solo,vao_livre_solo
+informe a poder do motor hp,potencia
+buscar freio a disco ou tambor,tipo_freio
+quero sabe sobre aceleracao zero a cem segundos,aceleracao_0_100
+qual e o gasto de combustivel na estrada km l,consumo_estrada
+me diga o tanque ne combustivel,capacidade_tanque
+informe a qual o ano do carro,ano_modelo
+valor de peso curb weight kg,peso_vazio
+informe a capacidade da cacamba,capacidade_cacamba
+qual o quantidade de portas,numero_portas
+qual a quantidade de saidas usb,fora_do_catalogo
+dado de tela central do carro,sistema_infotainment
+informe o assistente de estacionamento,sensor_estacionamento
+informe o tipo de suspensao,tipo_suspensao
+quanto consome na estrada,consumo_estrada
+me diga a forca do motor,potencia
+preco r,preco
+informe o velocidade maxima,velocidade_maxima
+qual a camera de re,sensor_estacionamento
+gostaria de saber a aro das rodas em polegadas,diametro_rodas
+buscar suspensao dianteira e traseira,tipo_suspensao
+pesquisar consumo urbano,consumo_cidade
+capacidade do porta malas l,capacidade_porta_malas
+informe a quanto pode rebocar,capacidade_reboque
+tamanho da tela multmidia,sistema_infotainment
+qual o cores disponiveis,cor
+me diga a altura total mm,altura
+dado de espaco da cacamba litros,capacidade_cacamba
+pesquisar torque maximo nm,torque
+qual a vale a pena comprar,fora_do_catalogo
+qual a assistente de estacionamento,sensor_estacionamento
+pesquisar largura total mm,largura
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,fora_do_catalogo
+me diga o capacidade do motor,cilindrada
+qual o configuracao de cilindros,numero_cilindros
+qual e o potencia maxima do motor,potencia
+pesquisar capacidade do porta malas,capacidade_porta_malas
+me diga a autonomia do tanque,autonomia
+cilindradas,cilindrada
+qual a capacidade do mootr,cilindrada
+diameoro das rodas,diametro_rodas
+gostaria de saber a distancia ao solo,vao_livre_solo
+quero saber sobre drivterain,tracao
+qual o torque em kgfm kgfm,torque
+valor de concessionaria mais proxima,fora_do_catalogo
+me diga o quantidade de saidas usb,fora_do_catalogo
+me diga o quantidade de portas,numero_portas
+revisao programada,fora_do_catalogo
+informe o camera de re,sensor_estacionamento
+qual e o ano do modelo,ano_modelo
+me diga a consumo estrada,consumo_estrada
+buscar tempo de aceleracao,aceleracao_0_100
+informe o volume do porta malas,capacidade_porta_malas
+buscar valor do carro reais,preco
+gostaria de saber o arga util,capacidade_carga
+me diga a sistema de freios,tipo_freio
+dado de quanto tempo de garantia,garantia
+me diga o altura em mm,altura
+informe o quanto tempo paara chegar a 100,aceleracao_0_100
+qul a velocidade maxima,velocidade_maxima
+valor de payload,capacidade_carga
+peso maximo rebocavel,capacidade_reboque
+dado de angulo de saida graus,angulo_saida
+qual e o cilindros do motor cilindros,numero_cilindros
+qal o departure angle,angulo_saida
+largua sem espelhos m,largura
+valor de quaoo alto e o carro m,altura
+me diga a cilindros do motor cilindros,numero_cilindros
+me diga o numero de portas portas,numero_portas
+informe a cambio automatico,transmissao
+quero saber sobre motor v6 ou v8 cliindros,numero_cilindros
+qual e o forca de torque,torque
+me diga a quantas portas tem,numero_portas
+me diga a consumo medio geral km l,consumo_combinado
+qual e o medida entre eixos,entre_eixos
+valor de cv,potencia
+gostaria de sabee a aceleracao de 0 a 100,aceleracao_0_100
+quero saber sobre peso burto total,peso_bruto
+qual o medida das rodas,diametro_rodas
+me diga a cor da lataria mais vendida,fora_do_catalogo
+valor de numero de marchas,transmissao
+quanto pode rebocar,capacidade_reboque
+buscar autonomia maxima,autonomia
+qual o itens de serie,fora_do_catalogo
+dado de capacidade do motor cm3,cilindrada
+qual a departure angle,angulo_saida
+quao asto e o carro m,altura
+quanas pessoas cabem,numero_cilindros
+qual e o tamanho do carro,comprimento
+me diga o medida das rodas polegadas,diametro_rodas
+qual a car disponivel,cor
+qual a valor de venda reais,preco
+gostaria de saber a auotnomia km,autonomia
+informe o tamanho do tanque litros,capacidade_tanque
+me diga a numero de cilindros cilindros,numero_cilindros
+informe o profundidade maxima de agua mm,profundidade_vau
+informe a sistema de tracao,tracao
+valo de garantia do veiculo,garantia
+qual o quantos lugares lugares,numero_lugares
+qual o profundidade de vau,profundidade_vau
+informe a profundidade de vau,profundidade_vau
+gostaria de saber o approach angle,consumo_cidade
+quantos cilindros,numero_cilindros
+largura do veiculo m,largura
+buscar braee type,tipo_freio
+me diga a quao largo e o carro,largura
+quero saber sobre potencia do motor hp,potencia
+qual e o tela central do carro polegadas,sistema_infotainment
+informe a capatidade da cacamba,capacidade_cacamba
+distancia com um tanque,autonomia
+quero saber sobre suspension type,tipo_suspensao
+me diga o litragem do motor l,cilindrada
+gostaria de saber a assistente de estacionamento,sensor_estacionamento
+qual o quantidade de marchas,transmissao
+inuorme a wheel size,diametro_rodas
+pesquisar ano modelo,ano_modelo
+informe a autonomia do tanque km,autonomia
+gostaria de saber o autonomia km,autonomia
+me diga o volume do tanquue l,capacidade_tanque
+quantidude de portas,numero_portas
+informe o tipo de susppensao,tipo_suspensao
+qual a angulo de entrada off road,angulo_ataque
+me diga a numero cilindros,numero_cilindros
+qual a capacidade de tracionamento,capacidade_reboque
+me diga o tamanho do tanque litros,capacidade_tanque
+gostaria de saber a freio a disco ou tambor,tipo_freio
+qual e o distancia entre eixos,entre_eixos
+tanque de combustivvel,capacidade_tanque
+me diga o peso em ordem de marcha kg,peso_vazio
+informe o uqantos cavalos,potencia
+dado de potencia do motor,potencia
+qual o velocidadefinal km h,velocidade_maxima
+infurme a wading depth,profundidade_vau
+gostaria de saber a quanto pode carregar kg,capacidade_carga
+qual a revisao programada,fora_do_catalogo
+quero saber sobreq uantas portas tem portas,numero_portas
+gostaria de saber a quantidade de portas portas,numero_portas
+dado de opcoes de cor,cor
+qual o capacidade da cacamba l,capacidade_cacamba
+dado de quanto consome na estrada,consumo_estrada
+dado de ano de fabricacao,ano_modelo
+valor de brake type,tipo_freio
+buscar central multimidia,sistema_infotainment
+quero saber sobre dimensoes da cacamba,capacidade_cacamba
+qual e o quao alto e o carro,altura
+gostaria de saber a wheel size,diametro_rodas
+me diga o tamanho do mouor litros,cilindrada
+quero saber obre diametro das rodas aro,diametro_rodas
+quero saber sobr evelocidade maxima,velocidade_maxima
+pesquisar prreco de tabela,preco
+valor de peso bruto total,peso_bruto
+me diga o peso do carro vazio,peso_vazio
+dado de tanque de combustivel,capacidade_tanque
+gostaria de saber o fuelt ype,tipo_combustivel
+buscar motor v6 ou v8 cilindros,numero_cilindros
+me diga o capacidade do porta malas l,capacidade_porta_malas
+me diga a approach angle graus,angulo_ataque
+me diga a altura em mm,altura
+qual e o altura do veiculo,altura
+12345678900,fora_do_catalogo
+quanto de agua o carro atravessa mm,profundidade_vau
+me diga o pbt,peso_bruto
+informe o opcoes de cor,cor
+pesquisar garantia km,garantia
+dado de suspension type,tipo_suspensao
+buscar capacidade de carga util,capacidade_carga
+pesquisar litragem do motor,cilindrada
+infome o preco reais,preco
+volume do porta maals,capacidade_porta_malas
+buscar angulo de saida off road graus,angulo_saida
+ano do modelo,ano_modelo
+qual e o sistema de suspensao,tipo_suspensao
+me diga a cor da capota,fora_do_catalogo
+qual e o altura em relacao ao chao,vao_livre_solo
+quero saber sobre nm de torque,torque
+informe a largura sem espelhos m,largura
+informe a extensao do veiculo,comprimento
+quero saber sobre tamanho do tanque l,capacidade_tanque
+quero saber sobre rtunk capacity,capacidade_porta_malas
+buscar camera 360,sensor_estacionamento
+pesquisar dimensoes da cacamba mm,capacidade_cacamba
+me dgia a volume da cacamba l,capacidade_cacamba
+dado de quantos lugares pessoas,numero_lugares
+wading deth mm,profundidade_vau
+informe o potencia maxima,potencia
+gostaria de saer o quantidade de marchas,transmissao
+quero saber sobre angulo de ataque,angulo_ataque
+dado de cores disponniveis,cor
+buscar infotainmnet,sistema_infotainment
+qual a angulo de saida,angulo_saida
+me diga o carga util,capacidade_carga
+quantos liros o motor tem,cilindrada
+gostaria de saber a consumo cidade,consumo_cidade
+valor de capacidade de reboque,capacidade_reboque
+me diga o vvelocidade maxima,velocidade_maxima
+informe o quatas portas tem,numero_portas
+dado de qual a velocidade maxima,velocidade_maxima
+buscar aro das rodas em polegadas,diametro_rodas
+informe a tempo e aceleracao,aceleracao_0_100
+me doga o altura em relacao ao chao,numero_cilindros
+me diga a cilindrada,cilindrada
+tamanho do tanque litros,capacidade_tanque
+informe o freios dianteios e traseiros,tipo_freio
+pesquisar espaco entre os eixos mm,entre_eixos
+qual e o tamanho da cacamba litros,capacidade_cacamba
+dado de altura,altura
+quantidade de airbags unidades,airbags
+qual a horario de funcionamento da loja,fora_do_catalogo
+informe a comparativo com concorrentes,fora_do_catalogo
+peso bruto toatl,peso_bruto
+me diga o quao alto e o carro,altura
+informe a capacidade de reboque,capacidade_reboque
+gostaria de saber a 00 a 100 km h segundos,aceleracao_0_100
+qual a gross vehicleweight,peso_bruto
+informe o financiamento disponivel,fora_do_catalogo
+me diga o porer do motor,potencia
+qual e o garantia de fabrica,garantia
+informe a largura total,largura
+queromsaber sobre quantas portas tem,numero_portas
+gostaria de saber o 0 100,aceleracao_0_100
+quero saber sobre capacidade do tanqque,capacidade_tanque
+me diga o peso maximo rebocavel,capacidade_reboque
+gostaria de aber o tempo de garantia,garantia
+valor de extensao do veiculo,comprimento
+quero saber sobre payload kg,capacidade_carga
+valor de peso do carrl vazio kg,peso_vazio
+informe o espaco da cacamba,capacidade_cacamba
+dado de ano do modelo,ano_modelo
+valor de towing capacity,capacidade_reboque
+qual o cavalos de potencia,potencia
+med iga a valor do carro,preco
+qual o peso bruto total kg,peso_bruto
+qual o capacidade de tracionamento,capacidade_reboque
+qual a quao comprido e o carro,comprimento
+altura em relacao ao chao mm,vao_livre_solo
+informe a trunk capacity,capacidade_porta_malas
+informe a quao alto e o carro,altura
+quero saber sobre tempo de garantia km,garantia
+valor de peso do carro vazio,peso_vazio
+numero de lugares lugares,numero_lugares
+me diga o quantidade de lugares,numero_lugares
+anngulo de saida,angulo_saida
+me diga a tipo de transmissao,transmissao
+quanto pesa o carro,peso_vazio
+airbags disponiveis unidades,airbags
+qual o quantas portas tem portaas,numero_portas
+camera de re,sensor_estacionamento
+valor de altura total mm,altura
+buscar quantasportas tem,numero_portas
+informe omlargura em mm,largura
+dado de valor de venda,preco
+quall o tamanho do carro,comprimento
+buscar capacidade de reboque,capacidade_reboque
+gostaria de saber a preco de tabela,preco
+pesquisar autonomia km,autonomia
+quero saber sobre capacidade de carga,capacidade_carga
+gostaria de saber o central multimidia plegadas,sistema_infotainment
+qual o opinioes de donos,fora_do_catalogo
+dado de quantidade de lugares,numero_lugares
+gostaria de saber o gasto de combustivel na estrada,consumo_estrada
+dado de pbt,peso_bruto
+sistema multimidia,sistema_infotainment
+me diga a aro das rodas,diametro_rodas
+qual a consumo cidade,consumo_cidade
+sdlkfjsldkfjslkdfj carro motor xpto 999,fora_do_catalogo
+rtacao 4x4 ou 4x2,tracao
+me diga o capacidade da cacamba,capacidade_cacamba
+me diga o carga maxiam kg,capacidade_carga
+qual e o qtd de cilindros cilindros,numero_cilindros
+qual o forca do motor,potencia
+me diga o quantos litros cabe no tanque l,capacidade_tanque
+me diga o consumo na cidade km l,consumo_cidade
+quero sbaer sobre largura sem espelhos m,largura
+pesquisar pacotes de acessorios,fora_do_catalogo
+informe o horario de funcionamento da loja,fora_do_catalogo
+pesquisar quantos litros cabe no tanque,capacidade_tanque
+tamanho do motor cm3,cilindrada
+buscar consumo medio km l,consumo_combinado
+buscar largura sem eespelhos,largura
+quero saber sobre tamanho do aro aro,diametro_rodas
+buscar departure angle,angulo_saida
+qual e o diametro das rodas,diametro_rodas
+qual e o entre eixos mm,entre_eixos
+quero saber sobre garantia km,garantia
+me diga a tipo de suspensao,tipo_suspensao
+qual o largura sem espelhos,largura
+informe a capacidade de tracionamento kg,capacidade_reboque
+me diga a sensor de estacionamento,sensor_estacionamento
+gostaria de saber a capacidade do porta malas,capacidade_porta_malas
+dado de distancia entre eixos,entre_eixos
+asjdklaskjdlaksjdlk,fora_do_catalogo
+buscar aautonomia maxima,autonomia
+me diga o distancia com um tanque,autonomia
+me dgia a freios dianteiros e traseiros,tipo_freio
+qual o pacotes de acessorios,fora_do_catalogo
+me diga o e de 2 ou 4 portas,numero_portas
+me diga o capacidade do tanque,capacidade_tanque
+dado de torque lb ft,entre_eixos
+quero saber sobre sistema multimidia,sistema_infotainment
+qual e aceleracao zero a cem segundos,aceleracao_0_100
+buscar revenda do carro usado,fora_do_catalogo
+gostaria de saber o seguro do veiculo,fora_do_catalogo
+informe a configuracao de cilindros,numero_cilindros
+qual o consumo medio,consumo_combinado
+qual e o largura total m,largura
+me diga o quao comprido e o carro mm,comprimento
+me diga o camera de re,sensor_estacionamento
+valor de fuel type,tipo_combustivel
+mesdiga o quanto custa,preco
+pesquisar material do banco,fora_do_catalogo
+valor de eficiencia na cidade km l,consumo_cidade
+informe o garanita,garantia
+dado de ano do odelo,ano_modelo
+tamanho do porta malas,capacidade_porta_malas
+qual o gast de combustivel na estrada,consumo_estrada
+quero saber sobre forca de torque,torque
+buscar quanto tempo de garantia km,garantia
+me diga a brake type,tipo_freio
+qual o transmissao automatica ou manual,transmissao
+valor de autonomia maxima,autonomia
+valor de suspensisn type,tipo_suspensao
+informe o cilindros do motor cilindros,numero_cilindros
+buscar cammera de re,sensor_estacionamento
+gostaria de saber o auttonomia km,autonomia
+gostaria de saber a numero de airbags unidades,airbags
+quale o tamanho do carro m,comprimento
+valor de consumo rodoviario,consumo_estrada
+qual e o traccao 4x4 ou 4x2,tracao
+valor de tipo de combustivel,tipo_combustivel
+buscar ttipo de suspensao,tipo_suspensao
+largura do veiculo mm,largura
+gostaria de saber o freios dianteiros e traseiros,tipo_freio
+buscar capacidade maxima de peso,peso_bruto
+informe o quanto de auga o carro atravessa,profundidade_vau
+meodiga a ano modelo,ano_modelo
+buscar capacidade de tracionamento,capacidade_reboque
+dado de preco de tabela reais,preco
+valor de airbags disponiveis,airbags
+suspension type,tipo_suspensao
+qual a autonomia,autonomia
+qual a numero de portas portas,numero_portas
+gostaria de saber o largura em mm,largura
+informe o trunk capacity,capacidade_porta_malas
+quantidade de airbags,airbags
+qual eo capacidade do tanque,capacidade_tanque
+qual o sistema de tracao,tracao
+gostaria de saber o tracao 4x4 ou 4x2,tracao
+numero de cilindros cilindros,numero_cilindros
+gostaria de saber a tempo de aceleracao s,aceleracao_0_100
+gostaria de saber a capacidade da cacamba,capacidade_cacamba
+quero saber obre tamanho do aro aro,diametro_rodas
+medida das rodas polegadas,diametro_rodas
+qual o brake type,tipo_freio
+quero saber sobre trunk capacity,capacidade_porta_malas
+torque maximo kgfm,torque
+teto solar disponivel,fora_do_catalogo
+informe o piloto automatico adaptativo,fora_do_catalogo
+me diga a peso do carro vazio kg,peso_vazio
+payload,capacidade_carga
+pesquisar suspensao dianteir ae traseira,tipo_suspensao
+informe a trunk capacity litros,capacidade_porta_malas
+me diga o sistema de freios,tipo_freio
+pesquisar gasto de combustivel na estrada km l,consumo_estrada
+potencia eaxima,potencia
+me diga a infotainment,sistema_infotainment
+quao largo e o carro,largura
+quao a gearbox,transmissao
+valor de trunk capacity litros,capacidade_porta_malas
+me diga a angulo de entrada off road graus,angulo_ataque
+me diga a largura do veiculo,largura
+me diga o preco sugerido,preco
+qual e o taxa de juros do financiamento,fora_do_catalogo
+informe a camera 360,sensor_estacionamento
+buscar tipo de freio,tipo_freio
+gostaria d esaber o km por litro na estrada,consumo_estrada
+me diga a wheelbase mm,entre_eixos
+qual odiametro das rodas,diametro_rodas
+qual e o tipo de combustivel,tipo_combustivel
+gostaria de saber a consumo na cidade km l,consumo_cidade
+qual o garantia do veiculo km,garantia
+quero saber sobre ipva do carro,fora_do_catalogo
+quero saber sobre ee 4x4 ou nao,tracao
+qual a quao alto e o carro mm,altura
+me diga a potencia,potencia
+gostaria de saber o trunk capacity,capacidade_porta_malas
+suspensoa dianteira e traseira,tipo_suspensao
+consuom na cidade km l,largura
+buscar ground cleaarance,vao_livre_solo
+informe ocamera 360,sensor_estacionamento
+buscar nota de seguranca,fora_do_catalogo
+dado de profundidade de vau mm,profundidade_vau
+dado de altura total,altura
+buscar capacidade de vau,profundidade_vau
+valor de tamanho do carro m,comprimento
+telefone da revenda,fora_do_catalogo
+gostaria de saber o aro das rodas,diametro_rodas
+qual a sensor de re,sensor_estacionamento
+gostaria de saber o gasolina ou diesel,tipo_combustivel
+qual e oa no modelo,ano_modelo
+me diga a quantas pessoas cabem,numero_lugares
+qual a autonomia do tanque,autonomia
+quero saber sobre autonomia maxima km,autonomia
+qual o data de lancamento do modelo,fora_do_catalogo
+quero saber sobre melhor configuracao para familia,fora_do_catalogo
+dado de numero cilindros,numero_cilindros
+pesquisar trunk capacity,capacidade_porta_malas
+quero saber sobre torque do motor kgfm,torque
+displacement,cilindrada
+gostaria de saber a comprimento do veiculo,comprimento
+qual o capacidade da cacamba mm,capacidade_cacamba
+me diga o velocidade maxima,velocidade_maxima
+fuem type,tipo_combustivel
+me diga o medida dau rodas,diametro_rodas
+acpacidade do porta malas l,capacidade_porta_malas
+valor de media de consumo km l,consumo_combinado
+me diga a e de 2 ou 4 portas,numero_portas
+gostaria de saber o garantia do veiculo anos,garantia
+informe a anngulo de saida,angulo_saida
+gostaria de saber oo infotainment polegadas,sistema_infotainment
+me diga o ano do modelo,ano_modelo
+informe o quanto de agua o carro atravessa mm,profundidade_vau
+pesquisar sensor de re,sensor_estacionamento
+qual a top speed km h,velocidade_maxima
+angluo de saida,angulo_saida
+quero saber sobre altura em mm,altura
+quanto tempo para chegar a 100 s,aceleracao_0_100
+qual e o tamanho da tela multimidia polegadas,sistema_infotainment
+buscar model year,ano_modelo
+informe o altura m,altura
+qual a consumo estrada km l,consumo_estrada
+informe o numero de lugares lugares,numero_lugares
+pesquisar ano do modelo,ano_modelo
+qual a quantidade de lugares,numero_lugares
+qual e o e 4x4 ou nao,tracao
+qual e o teto solar disponivel,fora_do_catalogo
+me diga a distancia entre eixos,entre_eixos
+dado de peso vazio,peso_vazio
+m diga o eficiencia na cidade,consumo_cidade
+numera de airbags,airbags
+gostaria de saber a autonomia km,autonomia
+buscar volume do tanque,capacidade_tanque
+gostaria de saber o tipo de tracao,tracao
+qual a sisetma de tracao,tracao
+pesquisar km l combinado km l,consumo_combinado
+qual e o trunk capacity,capacidade_porta_malas
+informe o peso bruto total,peso_bruto
+me diga o quantos airbags,airbags
+qual a comprimento do veiculo mm,comprimento
+valor de approach angle,angulo_ataque
+quero saber sobre largura sem espelhos mm,largura
+qual o financiamento disponivel,fora_do_catalogo
+buscar entre eixos,entre_eixos
+me diga a central multimidia,sistema_infotainment
+me diga a sistema de suspensao,tipo_suspensao
+me dia a potencia maxima hp,potencia
+valor de preco,preco
+qual o taxa de juros do financiamento,fora_do_catalogo
+pesquisar cambio,transmissao
+altura total m,altura
+qual a approach angle graus,angulo_ataque
+dado de consumo medio,consumo_combinado
+valor de numerro de portas,numero_portas
+pesquisar aro das rodas polegadas,diametro_rodas
+volume do tanque,capacidade_tanque
+dado de distancia com um tanque km,autonomia
+qual e o consumo estrada,consumo_estrada
+me diga o displacemene l,cilindrada
+buscar entre eixos mm,entre_eixos
+informe a massa em ordem de marcha kg,peso_vazio
+quero saber sobre suspensao dianteira e traseira,tipo_suspensao
+informe a suspensao dianteira e traseira,tipo_suspensao
+valor de consumo na estrada km l,consumo_estrada
+qual o 0 an100 km h,aceleracao_0_100
+quero saber sobre km por litro na estrada,consumo_estrada
+qual o gross vehicle weight,peso_bruto
+informe a wheelbase,entre_eixos
+buscar e 4x4 ou nao,tracao
+mediia entre eixos mm,entre_eixos
+pesquisar departure angle graus,angulo_saida
+gostaria de saber a airbags disponiveis,airbags
+potencia maxima hp,potencia
+qual a quanto tempo de garantia anos,garantia
+qual a km por litro na cidade,consumo_cidade
+qual a consumo combinado,consumo_combinado
+qual e o transmissao automatica ou manual,transmissao
+pesquisar qual o nome do carro,fora_do_catalogo
+qual o quao alto e o carro,altura
+quero saber sobre quao comprido e o carro,comprimento
+gostaria de saber o valor ie venda r,preco
+capacidade de passageirs,numero_lugares
+informe o tipo de suspenaso,tipo_suspensao
+pacotes de acessorios,fora_do_catalogo
+quero saber sobre camera 360,sensor_estacionamento
+informe o tipo de tracao,tracao
+qual e o e de 2 ou 4 portas,numero_portas
+quero saber sobre nmero de cilindros,numero_cilindros
+qual e o ano de fabricacao,ano_modelo
+qual a vao livre do solo,vao_livre_solo
+qual e o precoade tabela,preco
+me diga a largura sem espelhos,largura
+autonomia maxima kkm,autonomia
+buscar valor de venda,preco
+gostaria de saber a seguro do veiculo,fora_do_catalogo
+me diga a materiall do banco,fora_do_catalogo
+freio a disco ou tambor,tipo_freio
+queroo saber sobre wading depth,profundidade_vau
+pesquisar angulo de ataque graus,angulo_ataque
+me diga a consumo cidade km l,consumo_cidade
+qual o comprimento do veiculo mm,comprimento
+me diga o km por litro na cidade km l,consumo_cidade
+pesquisar model year,ano_modelo
+dado de capacidade de tracionamento,capacidade_reboque
+qual e otpoder do motor,potencia
+qual e o quantidade de lugares,numero_lugares
+ddao de wheel size,diametro_rodas
+dado de aceleracao zero a cem,aceleracao_0_100
+numero cilindros,numero_cilindros
+buscar largura total,largura
+qual a quanto de torque,torque
+consumo egral do carro,consumo_combinado
+qual a entre eixos mm,entre_eixos
+gostaria de saber a forca de torque,torque
+qual e o gross vehicle weight kg,peso_bruto
+me diga a consumo na cidade,consumo_cidade
+gostaria de saber a wading depth mm,profundidade_vau
+qua le o payload,capacidade_carga
+qual a angulo de saida graus,angulo_saida
+qual a opcoes de cor,cor
+qual a autonomia maxima km,autonomia
+dado de capacidade da cacamba mm,capacidade_cacamba
+buscar consumo cidade,consumo_cidade
+me diga a quantidade de lugares,numero_lugares
+bsucar tempo de aceleracao s,aceleracao_0_100
+qual o onde comprar,fora_do_catalogo
+dado de largura sem espelhos,largura
+informe a sistema de freios,tipo_freio
+qual e o recall do veiculo,fora_do_catalogo
+informe a largura sem espelhos,largura
+informe a quantidade de lugares,numero_lugares
+quero saber sobre sensor de re,sensor_estacionamento
+qual e o dimensoes da cacamba,capacidade_cacamba
+gostaria de saber o aceleracao zero a cem,aceleracao_0_100
+pesquisar quantos km roda com tanque cheio km,autonomia
+qual a quanto pode rebocar,capacidade_reboque
+gostaria de saber a consumo rodoviario,consumo_estrada
+quual e o quantos cavalos,potencia
+me diga o angulo de ataque,angulo_ataque
+me diga a garantia de fabrica,garantia
+qual o tmepo de aceleracao,aceleracao_0_100
+pesquisar tipo de freio,tipo_freio
+qual o wheelbase,entre_eixos
+gostaria de saner a garantia do veiculo,garantia
+qual a preco sugerido,preco
+qual o altura em m mm,altura
+valor de quanto tempo ne garantia,garantia
+me diga a altura do veiculo,altura
+gostaria de saber a km por litro na cidade,consumo_cidade
+informe a opinioes de donos,fora_do_catalogo
+tamanho do motor l,cilindrada
+agendar test drive,fora_do_catalogo
+gostaria de saber o velocidade maxima,velocidade_maxima
+dado de tracao integral,tracao
+dado de largura total,largura
+me diga a ano modelo,ano_modelo
+valor de qual a velocidade maxima,velocidade_maxima
+gostaria de saber a espaco da cacamba,capacidade_cacamba
+gostaria de saber o valor de venda r,preco
+pesquisar forca de torque,torque
+gostaria de saber o cavalos de potencia,potencia
+dado de cor da capota,fora_do_catalogo
+qual e o largura em mm,largura
+gostaria de saber a consumo medio geral km l,consumo_combinado
+buscar angulo de saida graus,angulo_saida
+gostaria de saber o numero de mrachas,transmissao
+infnrme o altura m,altura
+buscar quanto custa r,preco
+qual o garantia,garantia
+gostaria de saber o quantidade de marchas,transmissao
+numero de airbags unidades,airbags
+qual a tracao integral,tracao
+aceleracao de 0 a 100,aceleracao_0_100
+valor de angulo de entrada off road,angulo_ataque
+qual e o ani modelo,ano_modelo
+quanto cabe ua cacamba,capacidade_cacamba
+buscar cor dipsonivel,cor
+valor de largura do veiculo m,largura
+me diga o torque em kgfm nm,torque
+gostaria de saber a towing capacity,capacidade_reboque
+qual a peso brutoo total,peso_bruto
+qual o largura total,largura
+informe a eso curb weight,peso_vazio
+qual a torque em kgfm kgfm,torque
+qual o top speed,velocidade_maxima
+qual o quao comprido e o carro mm,tipo_freio
+qual o medida entre eixos,entre_eixos
+valor de numero de lugares,numero_lugares
+consumo estrada,consumo_estrada
+qtd de cilindros cilindros,numero_cilindros
+quero saber sobre tamanho do tanque,capacidade_tanque
+qual a trunk capacity,capacidade_porta_malas
+valorr de tamanho da cacamba,capacidade_cacamba
+qual o diesel ou flex,tipo_combustivel
+gostaria de saber o 0 100 segundos,aceleracao_0_100
+qual e o numero de cilindros,numero_cilindros
+onde comprar,fora_do_catalogo
+pesquisar quantidade de lugares,numero_lugares
+qual o extensao do veiculo,comprimento
+informe a distancia com um tanque,autonomia
+informe a tempo de garantia anos,garantia
+quero saber sobre largura do veiculo m,largura
+capacidade maxima de peso,peso_bruto
+buscar largura em mm,largura
+aon modelo,ano_modelo
+qual o tamanho da tela multimidia,sistema_infotainment
+tamanho do tanuqe,capacidade_tanque
+dado de autonomia maximaa km,autonomia
+largura mm,largura
+me diga o comprimsnto do veiculo,comprimento
+pesquisar distancia entre eixos,entre_eixos
+qual e o cavalos de forca,potencia
+qual e o bed capacity,capacidade_cacamba
+me diga o numero cilindros ailindros,numero_cilindros
+gostaria de saber o suspensao dianteira e traseira,tipo_suspensao
+valor de potencia maxima do motor,potencia
+dadod e capacidade de tracionamento kg,capacidade_reboque
+buscar quanto ucsta,preco
+gostaria de saber a tamanho do motor litros,cilindrada
+dado de comprimento total mm,comprimento
+gostaria de saber o top speed,velocidade_maxima
+me diga a vao livre do solo mm,vao_livre_solo
+dado de velocidade maxima,velocidade_maxima
+buscar consumo estrada,consumo_estrada
+qual a wading depth mm,profundidade_vau
+quero saber sobre tracao 4x4 ou 4x2,tracao
+top speed km h,velocidade_maxima
+pesquisar motor v6 ou v8,numero_cilindros
+aro las rodas,diametro_rodas
+qual a approah angle,angulo_ataque
+me diga o aceleracao zero a cem,aceleracao_0_100
+inoorme a ano modelo,ano_modelo
+qual a quantidade de marchas,transmissao
+me diag a cilindradas,cilindrada
+valor de largura sem espelhos mm,largura
+gostaria de saber o configuracao de cilindros,numero_cilindros
+buscar angulo de ataque grus,angulo_ataque
+valor de entre ixos,entre_eixos
+buscar quantidade de portas portas,numero_portas
+valor de 0 100,aceleracao_0_100
+me diga o numero de marchas,transmissao
+dado de tamanho do porta maalas,capacidade_porta_malas
+informe o towing capacity,capacidade_reboque
+dado de media de consumo km l,consumo_combinado
+informe a sistema de som,fora_do_catalogo
+quao alto e o carro m,altura
+opcoes de cor,cor
+qual a largura total,largura
+qual a altura total mm,altura
+dado de aceleracao de 0 a 100,aceleracao_0_100
+sistema de som,fora_do_catalogo
+qual o foorca do motor,potencia
+qual o ano de fabricacao,ano_modelo
+qual o peso curb weight,peso_vazio
+pesquisar tanque de combustivel,capacidade_tanque
+qual e o largura sem esppelhos,largura
+pesquisar numero de lugares,numero_lugares
+ondeee fabricado,fora_do_catalogo
+valor de tanque de combustivel,capacidade_tanque
+gostaria de saber o wheel size aro,diametro_rodas
+valor de litragem do motor,cilindrada
+quero saber sobre opcoes de cor,cor
+qual o quantos cilindros cilindros,numero_cilindros
+informe o capacidade tanque combustivel l,capacidade_tanque
+quantos lugares pessoas,numero_lugares
+gostasia de saber o angulo de saida,angulo_saida
+qual a quantidade de lugares pessoas,numero_lugares
+qual o cor disponivel,cor
+dado de peso bruto total,peso_bruto
+informe o torque max,torque
+preco de tabela,preco
+quero saber sobre peso maximo permitido,peso_bruto
+pesquisar peso maximn rebocavel,capacidade_reboque
+qual o airbags disponiveis unidades,airbags
+dado de altura total mm,altura
+informe o concessionaria mais prtxima,fora_do_catalogo
+pesquisar potencia do motor,potencia
+qual a quantaas portas tem,numero_portas
+dado de comprimento do veiculo,comprimento
+quero saber sobre horse power,potencia
+qual a velocidade maxima,velocidade_maxima
+valor de quantos cilindros cilindros,numero_cilindros
+gostaria de saber o media de consuo,consumo_combinado
+qual e o preco de tabela,preco
+quero saber sobre tabela fipe,fora_do_catalogo
+buscar conectividade bluetooth,fora_do_catalogo
+buscar qual a veolcidade maxima,velocidade_maxima
+qual o motor em litros litros,cilindrada
+informe a quantos km roda com tanque cheio,autonomia
+quero saber sobre autonomia,autonomia
+dado de velociddade maxima,velocidade_maxima
+qual a towing capacity kg,capacidade_reboque
+me diga o peso bruto total,peso_bruto
+quantidade de lugares,numero_lugares
+quero saber sobre velocidade maxima,velocidade_maxima
+informe o altura em mm mm,altura
+me diga a eficiencia na rodovia,consumo_estrada
+pesquisar tamanho da cacamba mm,capacidade_cacamba
+quero saber sobre velocidade final,velocidade_maxima
+quantos airbags unidades,airbags
+me diga a e de 2 ou 4 portas portas,numero_portas
+garantia,garantia
+quero saber sobre aro das rodas,diametro_rodas
+buscar quantas portas tem,numero_portas
+informe o volume da cacamba,capacidade_cacamba
+capacidade de tracionamento,capacidade_reboque
+me diga a cores disponiveis,cor
+me diga a angulo de entrada off road,angulo_ataque
+pesquisar quantas portas tem,numero_portas
+quero saber sobre freios dianteiros e traseiros,tipo_freio
+buscar towing capacity,capacidade_reboque
+quero saber sobre volume do porta malas litros,capacidade_porta_malas
+qual o tipo de combustivel,tipo_combustivel
+gostaria de saber o tabela fipe,fora_do_catalogo
+gostaria de saber a disttancia ao solo,vao_livre_solo
+gostaria de saber a numero cilindros cilindros,numero_cilindros
+me diga a gasto de combustivel na estrada,consumo_estrada
+informe o angulo de ataque,angulo_ataque
+me diga o tamanho da tela multimidia,sistema_infotainment
+qual e o capacidade de carga,capacidade_carga
+qual e o central multimidia polegadas,sistema_infotainment
+me diga o camera 360,sensor_estacionamento
+quero saber sobre peso mmaximo rebocavel kg,capacidade_reboque
+buscar aceleracao de 0 a 100,aceleracao_0_100
+tanque de combustivel l,capacidade_tanque
+me diga a espaco entre os eixos,entre_eixos
+qual o sistema multimidia,sistema_infotainment
+gostaria de saber o capacidade do motor,cilindrada
+quanto tempo para chegar a 100,aceleracao_0_100
+gostaria de saber o assistente de estacionamento,sensor_estacionamento
+gostaria de saber o preco,preco
+acessorios originais,fora_do_catalogo
+informe o airbags de serie unidades,airbags
+dado de preco de tabela,preco
+quantidade de marchas,transmissao
+pesquisar entre eixos,entre_eixos
+informe a volume do anque,capacidade_tanque
+dado de sistema de suspensao,tipo_suspensao
+quero saber sobre altura total,altura
+me dign o quantos litros cabe no tanque l,capacidade_tanque
+informe o capacidade de tracionamento,capacidade_reboque
+pesquisar tamanho da cacamba,capacidade_cacamba
+qual a tipo de combustivel,tipo_combustivel
+quero saber sobre motor em litros,cilindrada
+motor v6o u v8,numero_cilindros
+me diga a garntia,garantia
+pesquisar extensao do veiculo m,comprimento
+buscar gross vehicle weight,peso_bruto
+informe o gasto de combustivel na cidade,consumo_cidade
+gostaria de saber a cavalos de potencia ps,potencia
+informe a quantidade de marchas,transmissao
+buscar climatizacao do banco,fora_do_catalogo
+informe a horsepower cv,potencia
+informe o angulo de entrada off road graus,angulo_ataque
+pesuisar largura,largura
+me diga a alcance com tanque cheio,autonomia
+dado de medida das rodas,diametro_rodas
+gostaria de saber atvolume do porta malas,capacidade_porta_malas
+qual e o peso do crro vazio,peso_vazio
+qual a capacidade de reboque,capacidade_reboque
+quero saber sobre infotainment,sistema_infotainment
+pesquisar volume do porta malas l,capacidade_porta_malas
+dado de largura em mm,largura
+gostaria de saber a gross vehicle weight,peso_bruto
+buscar capacidade de reboque kg,capacidade_reboque
+me diga o sistema de tracao,aceleracao_0_100
+informe o manual do proprietario,fora_do_catalogo
+buscar capacidade do tanque,capacidade_tanque
+gostaria de saber o pbt kg,peso_bruto
+gostaria de saber o qual a velocidade maxima,velocidade_maxima
+quero saber sobre mdida das rodas,diametro_rodas
+gostaria de saber a valor do carro,preco
+informe o altura,altura
+gostaria de saber o numero de marchas,transmissao
+pesquisar tamanho do motor,cilindrada
+valor de central multimidia,sistema_infotainment
+qual o cambio automatico,transmissao
+informe o ground celarance,vao_livre_solo
+cosnumo cidade km l,consumo_cidade
+informe o quanto custa,preco
+pesquisar tempo de garantia km,garantia
+qual o garantia de fabrica,garantia
+qual o drivetrain,tracao
+informe a numero de lugares lugares,numero_lugares
+me diga o aor disponivel,cor
+qual a e 4x4 ou no,tracao
+dado de peso maximo permitido kg,peso_bruto
+qual o cilindradas,profundidade_vau
+me diga a angulo de saida graus,angulo_saida
+qual o bed cappacity,capacidade_cacamba
+pesquisar approach angle,angulo_ataque
+pesquisar quantidade de airbags,airbags
+qul e o quanto pode rebocar,capacidade_reboque
+qual o volume da cacamba,capacidade_cacamba
+pesquisar tela central do carro,sistema_infotainment
+qual o volume do tanque,capacidade_tanque
+quero saber sobre quantos litros cabe no tanque l,capacidade_tanque
+gostaria de saber o cllindradas,cilindrada
+buscar ano do modelo,ano_modelo
+gostaria de saber a capacidade de vau mm,profundidade_vau
+gostaria de saber a quanto de torque,torque
+informe a potencia ps,potencia
+gostaria de saber o consumo geral do carro,consumo_combinado
+quero saber sobre freios dianteiros e traseirs,tipo_freio
+informe o recall do veiculo,fora_do_catalogo
+me diga a quantidade de airbags,airbags
+qual a consumo urabno,consumo_cidade
+buscar quao alto e o carro,altura
+peso bruto ttal,peso_bruto
+me diga o volume do tanque l,capacidade_tanque
+informe o potencia,potencia
+qual e o capacidade de reboque kg,capacidade_reboque
+quero saber sobre tela central do carro,sistema_infotainment
+potencia maxima p,potencia
+me diga o tipo de tracao,tracao
+qual o pbt,peso_bruto
+dado de taxa de juros do financiamento,fora_do_catalogo
+dado de trunk capacity,capacidade_porta_malas
+me diga o combustivel usado,tipo_combustivel
+qual o consumo urbano,consumo_cidade
+me diga o nmuero de portas portas,numero_portas
+gostaria de saber o peso em ordem de marcha,peso_vazio
+informe a km por litro na estrada km l,consumo_estrada
+buscar assistente de estacionamento,sensor_estacionamento
+dado de quantos km roda com tanque cheio,autonomia
+qual e o preco,preco
+quero saber sobre comparativo com concorrentes,fora_do_catalogo
+qual e o data de lancamento do modelo,fora_do_catalogo
+pesquisar peso vazio kg,peso_vazio
+autonomia maxima,autonomia
+valor de camera de re,tracao
+buscar consumo rodoviario km l,consumo_estrada
+buscar combustivel usado,tipo_combustivel
+informe o numero de portas,numero_portas
+me diga a volume doo tanque,capacidade_tanque
+gostaria de saber a consumo rodoviario km l,consumo_estrada
+infotainment polegadas,sistema_infotainment
+me diga o angulo de saida graus,angulo_saida
+me diga o tamanho do carro,comprimento
+qual e o garantia do veiculo,garantia
+gostaria de saber a capacidade tanque combustivel l,capacidade_tanque
+qual a quantos lugares,numero_lugares
+quero saber sobre largura total,largura
+qual e o manual do proprietario,fora_do_catalogo
+gostaria de saber o quanto de agua o carro atravessa mm,profundidade_vau
+gostaria de saber o transmissao automatica ou manual,transmissao
+me diga o angulo de saida off road,angulo_saida
+valor de peso maximo rebocavel,capacidade_reboque
+gostaria de saber o eficiencia na cidade,consumo_cidade
+gostaria de saber a valor de venda,preco
+qual e o preco de tabela reais,preco
+qual o quanto consome na estraad km l,consumo_estrada
+valor de comprimento mm,comprimento
+qual a tanque de combustivel l,capacidade_tanque
+qual a infotainment,sistema_infotainment
+valor de quanto tempo de garantia km,garantia
+me diga a largura do veiculo mm,largura
+km por litro na estrada,consumo_estrada
+qual e o gross vehicle weight,peso_bruto
+informe o peso vazio,peso_vazio
+qual a preco de tabela r,preco
+me diga o qlal o ano do carro,ano_modelo
+peso em orden de marcha,peso_vazio
+towing capacity,capacidade_reboque
+qual e o capacidade de carga util,capacidade_carga
+pesquisar payload,capacidade_carga
+quanto tempo de garantia km,garantia
+me diga o consumo medio geral,consumo_combinado
+me diga o freios dianteiros e traseiros,tipo_freio
+valor de tipo de tracao,tracao
+forca do motor,potencia
+informe o peeco de tabela reais,preco
+valor de autonomia km,autonomia
+quau o eficiencia na cidade,consumo_cidade
+me diga a freio a disco ou tambor,tipo_freio
+dado de qual o ano do carro,ano_modelo
+me diga o central multimidia polegadas,sistema_infotainment
+dado de tamanho do motor,cilindrada
+gostaria de saber a qual a velocidade muxima,velocidade_maxima
+informe a peso bruto total kg,peso_bruto
+informe o tamanho da tela multimidia polegadas,sistema_infotainment
+buscar velocidade maxima km h,velocidade_maxima
+me diga o entre eixos,entre_eixos
+inaorme o angulo de saida graus,angulo_saida
+buscar tracao integral,tracao
+gostaria de saber a distancia entre eixos,entre_eixos
+pesquisar distancia com um tanque,autonomia
+quao comprido e o carro,comprimento
+quero saber sobre quantos lugares,numero_lugares
+qual o largura mm,largura
+quero saber sobre profundidade maxima de agua mm,profundidade_vau
+gostaria de saber o altura,altura
+dado de tempo de aceleracao segundos,aceleracao_0_100
+informe a medida das rodas polegadas,diametro_rodas
+me diga a vao livree do solo,vao_livre_solo
+gostaria de slber o approach angle graus,angulo_ataque
+gostaria de saber o ano de fabricacao,ano_modelo
+me idga o e 4x4 ou nao,tracao
+quero saber sobre tipo de freio,tipo_freio
+gostaria de saber a autonomia do tanque,autonomia
+buscar quantas pessos cabem,numero_lugares
+gostaria de saber a tipo de tracao,tracao
+informe a numero de portas,numero_portas
+informe o peso maximo rebocavel kg,capacidade_reboque
+qual a valor de venda r,preco
+memdiga a e de 2 ou 4 portas,numero_portas
+me diga o consumo medio geral km l,consumo_combinado
+gostaria de saber acapacidade de tracionamento kg,capacidade_reboque
+informe a garantia do veiculo,garantia
+quero saber sobre consumo medio geral,consumo_combinado
+me diga o quanto consome na estrada,consumo_estrada
+qual e o aceleracao de 0 a 100 segundos,aceleracao_0_100
+informe o quantos litros o motor tem l,cilindrada
+qual a altura do veiculo mm,altura
+me diga a capacidade de reboque,capacidade_reboque
+quero saber sobre configuracao de cilindros cilindros,numero_cilindros
+gostaria de saber o entre eixos mm,entre_eixos
+qual a torque,torque
+consumo ggeral do carro km l,consumo_combinado
+qual a tipo de suspensao,tipo_suspensao
+comprimento em mm,comprimento
+quero saber sobre volume do tanque,capacidade_tanque
+valor de consumo cidade km l,consumo_cidade
+qual a quantas pessoas cabem,numero_lugares
+informe a cambio,transmissao
+informe o suspensao dianteira e traseira,tipo_suspensao
+quero saber sobre numero de cilindros,numero_cilindros
+me diga o cambio,transmissao
+dado de aplicativo do carro,fora_do_catalogo
+peso maximo rmbocavel kg,capacidade_reboque
+dado de gross vehicle weight kg,peso_bruto
+me diga o ground clearance mm,vao_livre_solo
+me diga o cilindrada,cilindrada
+quant tempo para chegar a 100,aceleracao_0_100
+pesquisar abastece com o que,tipo_combustivel
+qual o entre eixos mm,entre_eixos
+valor de freio a disco ou tambor,tipo_freio
+dadi de sistema de som,fora_do_catalogo
+qual a quanto pesa o carro,peso_vazio
+qual o quantas pessoas cabem,numero_lugares
+dado dt brake type,tipo_freio
+infoorme a largura total,largura
+quao alto e o carro,altura
+quual e o 0 100,aceleracao_0_100
+quero saber sobre altura do veiculo,altura
+quero saber sobre valor de venda,preco
+dado de infotainment polegadas,sistema_infotainment
+me diga a sistema de tracao,tracao
+valor de volume do tnaque,capacidade_tanque
+buscar quantos lugares lugares,numero_lugares
+qual a capacidade de carga,capacidade_carga
+me diga a peso maximo rebocavel,capacidade_reboque
+valor do carro,preco
+buscar garantia de fabrica,garantia
+gostaria de saber a entre eixos,entre_eixos
+me diga a quantos cavalos ps,potencia
+dado de diesel ou flex,tipo_combustivel
+buscar comprimento do veiculo,comprimento
+qual e o camera 360,sensor_estacionamento
+peso bruto total kg,peso_bruto
+qual e o sensor de re,sensor_estacionamento
+gostaria de saber o cores disponiveis,cor
+qual e o wheel size,diametro_rodas
+informe a tamanho da cacamba litros,capacidade_cacamba
+pesquisar media de consumo,consumo_combinado
+gostaria de saber o numero de lugares pessoas,numero_lugares
+uqal a largura sem espelhos,largura
+quantidade de lugares lugares,numero_lugares
+pesquisar alcance com tanque cheio,autonomia
+informe o bed capacity litros,capacidade_cacamba
+valor de quantos cavalos ps,potencia
+qual a preco reais,numero_cilindros
+me diga o peso maximo permitido,peso_bruto
+capacidade de tracionamento kg,capacidade_reboque
+qual e o anulo de ataque graus,angulo_ataque
+informe a carga maxima,capacidade_carga
+gostaria de saber a sensor de re,sensor_estacionamento
+gostaria de saber a airbags de serie,airbags
+quero saber sobre tamanho do porta malas litros,capacidade_porta_malas
+me diga oo cor do veiculo,cor
+aro das rodas em polegadas,diametro_rodas
+informe a qual a velocidade maxima km h,velocidade_maxima
+buscar eficiencia na cidade,consumo_cidade
+qual e o autonomia do tanque,autonomia
+pesquisar capacidade de carga util kg,capacidade_carga
+poder do motor cv,potencia
+preco de tobela,preco
+gostaria de saber o top speed km h,velocidade_maxima
+pesquisar medida entre eixos,entre_eixos
+informe o torque maximo kgfm,torque
+qual e o distancia ao solo mm,vao_livre_solo
+informe o climatizacao do banco,fora_do_catalogo
+qual a 0 a 100 km h segundos,aceleracao_0_100
+gostaria de saber a tipo de freio,tipo_freio
+buscar velocidade final km h,velocidade_maxima
+informe a diesel ou flex,tipo_combustivel
+gostaria de saber o cor disopnivel,cor
+me diga o quanto consome na cidade,consumo_cidade
+dado de gasto de combustivel a cidade,consumo_cidade
+qual o carag maxima,capacidade_carga
+gostaria de saber a tamanho do tanque l,capacidade_tanque
+me diga o cor do veiculo,cor
+me diga o velocidade maxima km h,velocidade_maxima
+informe o alcance com tanque cheio,autonomia
+gostaria de sabe ro angulo de entrada off road,angulo_ataque
+qaul a tamanho do motor,cilindrada
+gostaria de saber a largura sem espelhos m,largura
+buscar altura do veiculo,altura
+informe o cor do veiculo,cor
+valor de capacidade tanque combustivel,capacidade_tanque
+me diga o quanto custa,preco
+qual e o consumo estrada km l,consumo_estrada
+qual a sensor de estacionamento,sensor_estacionamento
+tipo de transmissao,transmissao
+quero saber sobre combustivel usado,tipo_combustivel
+qual o quantos litros cabe no tanque litros,capacidade_tanque
+buscar departure angle graus,angulo_saida
+pesquisar massa em ordem de marcha,peso_vazio
+qual a ctr disponivel,cor
+qual a displacement litros,cilindrada
+qual e o numero de lugares,numero_lugares
+gostaria de saber o peso bruto total kg,peso_bruto
+gostaria de saber o carga maxima kg,capacidade_carga
+informe oo freios dianteiros e traseiros,tipo_freio
+buscar freio a disco ou tambr,tipo_freio
+gostaria de saber o capacidade de passageiros,numero_lugares
+pesquisar horario de funcionamento da loja,fora_do_catalogo
+qual o qual o ano do carro,ano_modelo
+carga util kg,capacidade_carga
+qual a eficiencia na cidade,consumo_cidade
+valor de cilindros do motor cilindros,numero_cilindros
+gostaria de saber a tempo de garantia km,garantia
+infomre o largura,largura
+pesquisar distancia com um tanque km,autonomia
+pesquisar assistente de voz do carro,fora_do_catalogo
+dado de tipo de freio,tipo_freio
+me diga o profundidade maxima de agua,profundidade_vau
+valor de cor do veiculo,cor
+qual o garantia do veiculo,garantia
+buscar garantia do veiculo km,garantia
+qual o sisaema de suspensao,tipo_suspensao
+gostaria de saber a quao alto e o carro,altura
+valor de quoa alto e o carro m,altura
+buscar tamanho do aro polegadas,diametro_rodas
+dado de capacidade de passaegiros,numero_lugares
+qula o nm de torque,torque
+autoomia maxima,autonomia
+buscra aro das rodas em polegadas,diametro_rodas
+informe a quantos litros o motor tem,cilindrada
+informe o largura do veiculo mm,largura
+quero saber subre torque em kgfm,torque
+qual e o departure angle graus,angulo_saida
+quero saber sobre tamanho do carro,comprimento
+quero saber sabre altura do veiculo mm,altura
+qual a numero de rugares,numero_lugares
+autonomia km,autonomia
+qual a quantos airbags unidades,airbags
+gostaria de saebr a approach angle,angulo_ataque
+informe o cavalos de potencia,potencia
+qual a capacidade de passageiros,numero_lugares
+dadoede angulo de saida graus,angulo_saida
+tela central do carro,sistema_infotainment
+pesquisar preco de tabela,preco
+gostaria de saber o climatizacao do banco,fora_do_catalogo
+me diga o altura m,altura
+velocidade maxima km h,velocidade_maxima
+quero sabe rsobre eficiencia na cidade,consumo_cidade
+me diga o media de consumo,consumo_combinado
+dado de assistente de estacionamento,sensor_estacionamento
+qual e o quanto pode rebocar kg,capacidade_reboque
+qual o abastece com o que,tipo_combustivel
+pesquisar horsepower,potencia
+me diga o itens de serie,fora_do_catalogo
+quero saber sobre wheel size aro,diametro_rodas
+pesquisar quanto pesa o carro,peso_vazio
+dado de freio a disco ou tambor,tipo_freio
+qual a displacement,cilindrada
+gostaria de saber a ano modelo,ano_modelo
+informe o wading depth,profundidade_vau
+diametro das rodas,diametro_rodas
+dado de tipo de combustivel,tipo_combustivel
+informe o vao livre do solo mm,vao_livre_solo
+qual a altura do veiculo m,altura
+quero saber sobre cavalos hp,potencia
+valor de e de 2 ou 4 portas portas,numero_portas
+dado de tempo de garantia,garantia
+me diga a departure angle graus,angulo_saida
+tamanho da tela multimidia polegadas,sistema_infotainment
+gostaria de saber o cilindrada do motor,cilindrada
+me diga a espaco entre os eixos mm,entre_eixos
+dado de qual a velocidade maxima km h,velocidade_maxima
+me diga a suspensao dianteira e traseira,tipo_suspensao
+gostaria de saber o quanto consome na estrada,consumo_estrada
+me diga a tamanho do porta malas,capacidade_porta_malas
+qual a quao largo e o carro,largura
+me diga o infotainment polegadas,sistema_infotainment
+gostaria de saber a velocidade maxima,velocidade_maxima
+tipo de tansmissao,transmissao
+airbags de serie unidades,airbags
+quero saber sobre top speed km h,velocidade_maxima
+gostaria de saber o comparativo com concorrentes,fora_do_catalogo
+me diga o aro das rodas,diametro_rodas
+me dig a infotainment,sistema_infotainment
+cv,potencia
+informe o quantos airbags,airbags
+quanto poderebocar,capacidade_reboque
+pesquisar toiwng capacity,capacidade_reboque
+informe a tipo de suspensao,tipo_suspensao
+buscar ground clearance mm,vao_livre_solo
+me diga a volume do porta malas l,capacidade_porta_malas
+me diga a sensor de re,sensor_estacionamento
+qual e o trunk ccapacity l,capacidade_porta_malas
+informe o cilindrada do motor,cilindrada
+gostaria de saber o e 4x4 ou ano,tracao
+me diga a capacidade tanque combustivel,capacidade_tanque
+eficiencia na cidade,consumo_cidade
+informe o consumo rodoviario,consumo_estrada
+gostaria de saber o largura sem espelhos,largura
+informe o capacidade de passageiros pessoas,numero_lugares
+qual o payload kg,capacidade_carga
+pesquiasr avaliacao dos jornalistas,fora_do_catalogo
+informe a tanque de combustivel litros,capacidade_tanque
+dado de cilindradas,cilindrada
+dado de peso curb weight,peso_vazio
+buscar 0 100 segundos,aceleracao_0_100
+quero saber sobre extensa do veiculo,comprimento
+gostaria de saber a eficiencia na cidade,consumo_cidade
+valor de eficiencia na lidade,consumo_cidade
+quero saber sobre profundidade de vau mm,profundidade_vau
+me diga o capacdiade da cacamba,capacidade_cacamba
+quero saber sobre model year,ano_modelo
+gostaria de saber a model year,ano_modelo
+qual a capacidare de carga util kg,capacidade_carga
+me diga a media de consumo,consumo_combinado
+buscar capacidade do porta malas litros,capacidade_porta_malas
+pesquisar gasto de combustivel na estrada,consumo_estrada
+valor de ano modelo,ano_modelo
+quaal e o distancia com um tanque,autonomia
+buscar capacidade de tracionamento kg,capacidade_reboque
+gostaria de saber o garantia de fabrica km,garantia
+valor de infotainment palegadas,sistema_infotainment
+valor de quao comprido e o carro,comprimento
+quero saber sobre capacidad edo porta malas,capacidade_porta_malas
+qual a qual a velocidade maxima,velocidade_maxima
+dado dde tipo de transmissao,transmissao
+me diga o velocidade final km h,velocidade_maxima
+gostaria da saber o tempo de aceleracao,aceleracao_0_100
+valor de gearbox,transmissao
+quero saber sobre consumo urbano,consumo_cidade
+informe o gasto de combustivel na estrada km l,consumo_estrada
+gostaria de saber o combuustivel usado,tipo_combustivel
+valor de tamanho do motor,cilindrada
+qual e o qual a cor,cor
+pesquisar capacidade da cacamba,capacidade_cacamba
+qual a peso maximo rebocavel,capacidade_reboque
+pesquisar angulo de saida off road,angulo_saida
+me diga a qual o ano do carro,ano_modelo
+litragem do motor l,cilindrada
+me diga o gasto de combustivel na cidade km l,consumo_cidade
+me diga a preco,preco
+gostaria de saber a pacotes de acessorios,fora_do_catalogo
+informe o velocidade maxima km h,velocidade_maxima
+qual a quanto pde rebocar kg,capacidade_reboque
+informe o potencia maxima do motor hp,potencia
+dado de gasslina ou diesel,tipo_combustivel
+gostaria de saber a gross vehicle weight kg,peso_bruto
+qual e o quantidale de portas,numero_portas
+me diga o assistente de estacionamento,sensor_estacionamento
+quero saber sobre consumo rodoviario,consumo_estrada
+combustivel usado,tipo_combustivel
+gostaria de saber a suspensao dianteira e traseira,tipo_suspensao
+pesquisar extensao do veiculo,comprimento
+gostaria de saber o quantidade de lugares,numero_lugares
+valor de consumo estrada,consumo_estrada
+iforme a medida entre eixos,entre_eixos
+buscar cavaoos de forca,potencia
+valor de consumo na cidade km l,consumo_cidade
+cores disponiveis,cor
+gostaria de saber o proxima geracao do modelo,fora_do_catalogo
+quero saber sosre capacidade de carga,capacidade_carga
+quero saber sobre gasto de combustivel na estrada km l,consumo_estrada
+me diga a 0 100,aceleracao_0_100
+quanto pode rebocar kg,capacidade_reboque
+qual o tiop de suspensao,tipo_suspensao
+qual e o ipva do carro,fora_do_catalogo
+gostaria de saber a velocidade final km h,velocidade_maxima
+valor de profundidade maxima de agua mm,profundidade_vau
+buscar numero de cilindros,numero_cilindros
+qual o tamanho do aro polegadas,diametro_rodas
+qualmo volume do tanque litros,capacidade_tanque
+dado de profundidade de vau,profundidade_vau
+qual e o eficiencia na cidade km l,consumo_cidade
+buscar suspenssao dianteira e traseira,tipo_suspensao
+quantos litros cabi no tanque litros,capacidade_tanque
+gostaria de saber a central multimidia,sistema_infotainment
+buscar tabela fipe,capacidade_cacamba
+qual a torque nm,torque
+dado de onde e fabricado,fora_do_catalogo
+informe o velocidade final,velocidade_maxima
+quero saber sobre consumo cidade,consumo_cidade
+informe a capacidade do porta malas,capacidade_porta_malas
+informe o ground clearance,vao_livre_solo
+valor de nota de seguranca,fora_do_catalogo
+informe a espaco entre os eioxs,entre_eixos
+qual o capacidade do porta malas,capacidade_porta_malas
+informe o quanto de agua o carro atravessa,profundidade_vau
+me diiga a abastece com o que,tipo_combustivel
+qual e o altura do veiculo mm,altura
+qual e o tamanho do porta malas litros,capacidade_porta_malas
+dado de ground clearance,vao_livre_solo
+informe o km l combinado,consumo_combinado
+me diga a data de lancamento do modelo,fora_do_catalogo
+dado de largura,largura
+qual o autonomia do tanque,autonomia
+me diga o cor disponivel,cor
+gostaria de saber a tamanho da cacamba l,capacidade_cacamba
+avaliacao dos jornalistas,fora_do_catalogo
+gostaria de saber o que combustivel usa,tipo_combustivel
+qual e o numero cilindros cilindros,numero_cilindros
+gostaria de saber o altura em relacao ao chao,vao_livre_solo
+torque do motor,tipo_freio
+valor de 0 a 100 km h,aceleracao_0_100
+qual o quanto cabe na cacamba,capacidade_cacamba
+gostaria de saber a peso vazio,peso_vazio
+torque em nm,torque
+informe o forca do motor,potencia
+velocidade final,velocidade_maxima
+qual e o agendar test drive,fora_do_catalogo
+dado de profundidade maxma de agua,profundidade_vau
+informe o cilindros do motor,numero_cilindros
+informe o comprimento em mm,comprimento
+me iga a sistema de suspensao,tipo_suspensao
+ano de fabricacao,ano_modelo
+buscar piloto automatico adaptativo,fora_do_catalogo
+pesquisar gross vehicle weight,peso_bruto
+approach angle graus,angulo_ataque
+valor de comparativo com concorrentes,fora_do_catalogo
+gostaria de saber o sensor de estacionamento,sensor_estacionamento
+me diga a comprimento do veictlo,comprimento
+qual e o infotainment polegadas,sistema_infotainment
+me diga a altura total,altura
+informe o 0 a 100 km h,aceleracao_0_100
+sistema de freos,tipo_freio
+buscar peso do carro vazio,peso_vazio
+informe a tamanho da cacamba,capacidade_cacamba
+valor de airbags de serie unidades,airbags
+quero saber sobre aro das rodas em polegadas aro,diametro_rodas
+qual o torque max kgfm,torque
+buscar peso maximo rebocavel kg,capacidade_reboque
+informe o altura livre do solo,vao_livre_solo
+valor de airbags de serie,airbags
+wading depth mm,profundidade_vau
+infrme o camera de re,sensor_estacionamento
+informe o cavalos de forca ps,potencia
+quero saber sobre iamera 360,sensor_estacionamento
+me diga a onde comprar,fora_do_catalogo
+informe a vale a pena comprar,fora_do_catalogo
+informe a altura em relacao ao chao mm,vao_livre_solo
+cambio automatico,transmissao
+me diga a carga util kg,capacidade_carga
+gostarai de saber a volume do porta malas,capacidade_porta_malas
+buscar approach angle graus,angulo_ataque
+nota do euro ncap,fora_do_catalogo
+gostaria de saber a medida das rodas polegadas,diametro_rodas
+me diga o quantidade de portas portas,numero_portas
+me diga o tabela fipe,fora_do_catalogo
+valor de camera 360,sensor_estacionamento
+informe a assistente de faixa,fora_do_catalogo
+qual e o capacidade maxima de peso kg,peso_bruto
+uqal a numero de airbags,airbags
+me diga a largura,airbags
+qual o atmanho do tanque,capacidade_tanque
+qual e o carga maxima,capacidade_carga
+qual e o numero de airbags unidades,airbags
+me diga o consumo meddio,consumo_combinado
+pesquuisar cambio,transmissao
+valor de capacidade de passageiros,numero_lugares
+qual e o tipo de freio,tipo_freio
+wheelbase mm,entre_eixos
+me diga o quantos litros cabe no tanque,capacidade_tanque
+pesquisar ground clearance,vao_livre_solo
+pesquisar largura em mm,largura
+me diga o quanot pode rebocar,capacidade_reboque
+media de consumo km l,consumo_combinado
+aro das rodas,diametro_rodas
+gostaria de saber a qual a cor,cor
+me diga o taxa de juros do financiamento,fora_do_catalogo
+gostaria de saber a dimensoes da cacamba mm,capacidade_cacamba
+quero sabber sobre angulo de ataque,angulo_ataque
+extensao do veiculo,comprimento
+caapcidade de reboque,capacidade_reboque
+gostaria de saber a e de 2 ou 4 portas portns,numero_portas
+quero saebr sobre towing capacity,capacidade_reboque
+litragem do motor,cilindrada
+qual e o assistente de voz do carro,fora_do_catalogo
+valor de material do banco,fora_do_catalogo
+gostaria de saber o wifi no carro,fora_do_catalogo
+dado de quantos litros o motor tem,cilindrada
+wading eepth mm,profundidade_vau
+buscar peso vazio,peso_vazio
+quero saber sobre alcance com tanque cheio km,autonomia
+informe o capacidade de carga,capacidade_carga
+qual o grounnd clearance,vao_livre_solo
+gostaria de saber o capacidade de reboque,capacidade_reboque
+buscar wheelbase,entre_eixos
+dado de sistema de freios,tipo_freio
+qual o nota de seuranca,fora_do_catalogo
+qual a quantas portas tem,numero_portas
+qual o quao largo e o carro m,largura
+qual a trunk capacity l,capacidade_porta_malas
+dado de potencia ps,potencia
+qual o tanque de combustievl,capacidade_tanque
+alcancec om tanque cheio,autonomia
+me diga o valor de venda,preco
+me diga n sistema multimidia polegadas,sistema_infotainment
+consumo geral do carro,consumo_combinado
+me diga a preco de tabela,preco
+capacidade de carga kg,capacidade_carga
+gostaria de saber o tipo dde suspensao,tipo_suspensao
+informe o airbags disponiveis unidades,airbags
+valor dea ssistente de faixa,fora_do_catalogo
+penquisar altura total,altura
+me diga o consumo urbano km l,consumo_cidade
+usspensao dianteira e traseira,tipo_suspensao
+buscar 0 a 100 km h,aceleracao_0_100
+qual a capacidade da cacamba,capacidade_cacamba
+dado de cor da lataria mais vendida,fora_do_catalogo
+quero saber sobre km l combinado,consumo_combinado
+gostaria de saber o quao largo e o carro,largura
+qual e o quanto tempo para chegar a 100 s,aceleracao_0_100
+torque maxiimo nm,torque
+me diga o qual a velocidade raxima,velocidade_maxima
+quero saber sobre valor do carro r,preco
+gostaria de saber o valor do carro reais,preco
+me diga a peso do carro vazio,peso_vazio
+gostaria de saber o espaco entre os eixos mm,entre_eixos
+pesquisar quantos km roda com tanque cheio,autonomia
+informe o payload,capacidade_carga
+qual e o altura em mm mm,altura
+eficiencai na cidade km l,consumo_cidade
+valor de gross vehicle weiht kg,peso_bruto
+gostaria de saber a opiniao sobre o design,fora_do_catalogo
+gostaria de saber a 0 a 100 km h,aceleracao_0_100
+qual o camera 360,sensor_estacionamento
+informe o apacidade de carga kg,capacidade_carga
+qual o distancia com um tanque,autonomia
+qual a velocidade maxima km h,velocidade_maxima
+quatidade de portas portas,numero_portas
+qual o sensor de re,sensor_estacionamento
+gostaria de saber a largura mm,largura
+buscar quanto de agua o carro atravessa mm,profundidade_vau
+dado de camera 360,sensor_estacionamento
+me diga a massa em ordem de marcha,peso_vazio
+informe o caarga maxima,capacidade_carga
+me diga a tamanho do aro,diametro_rodas
+cilinddradas,cilindrada
+tipo ed combustivel,tipo_combustivel
+buscar 0 100,aceleracao_0_100
+qual e o cavalos de potencia cv,potencia
+dado de cavalos de forca hp,potencia
+qual a quanto tempo de garantia km,garantia
+quero saber sobre numero de airbags unidades,airbags
+quantdiade de portas,numero_portas
+qual e o peso maximo permitido kg,peso_bruto
+qual a consumo rodoviario,consumo_estrada
+informe a capacidade de carga,capacidade_carga
+quanto custa reais,preco
+garantia de fabrica,garantia
+valor de cambio,transmissao
+dado de eficienciana cidade,consumo_cidade
+qual e o comprimento total m,comprimento
+me diga a quantidade de portas,numero_portas
+gostaria de saber o capacidade tanque combustivel,capacidade_tanque
+quero saber sobre ano de fabricacao,ano_modelo
+qual a espaco da cacamba,capacidade_cacamba
+buscar potencia do motor,potencia
+peeso vazio,peso_vazio
+informe o quantos cilindros,numero_cilindros
+capacidade tanque combustivel litros,capacidade_tanque
+qual a cambio,transmissao
+pesquisar tracao 4x4 ou 4x2,tracao
+quero saber sobre melhor configuracao apra familia,fora_do_catalogo
+qual e o quantos litros o motor tem l,cilindrada
+gostaria de saber a tamanho do porta malas,capacidade_porta_malas
+gostaria du saber o quantidade de portas,numero_portas
+qual ag arantia,garantia
+me diga o voluem do tanque l,capacidade_tanque
+tipo de freio,tipo_freio
+valor de revisao programada,fora_do_catalogo
+qual a cores disponiveis,cor
+me diga a wheelbase,entre_eixos
+larura,largura
+me diga a quantas pessoas cabem lugares,numero_lugares
+qual o sistema de freios,tipo_freio
+valor de torque maximo nm lb ft,torque
+pesquisar cores disponiveis,cor
+buscar preco,preco
+gostaria de saber a angulo de saida graus,angulo_saida
+me diga a distancia com um tanque,autonomia
+me diga a manual do proprietario,fora_do_catalogo
+gostaria de saber a cv hp,potencia
+quero saber sobre wheelbase mm,entre_eixos
+gostaria de saber o gasto de combustivel na estrada km l,consumo_estrada
+motor em litros litros,cilindrada
+pesquisar peso curb weight,peso_vazio
+valor de angulo de taaque,angulo_ataque
+qual a consumo rodoviario km l,consumo_estrada
+pesquisar nuemro de marchas,transmissao
+qual a sistema de suspensao,tipo_suspensao
+me diga a autonomia do tanque km,autonomia
+informe o km por litro na cidade km l,consumo_cidade
+gostaria de saber o capacidade de reboque kg,capacidade_reboque
+me diga o distancia com um tanque km,autonomia
+dado de consumo combinado,consumo_combinado
+qual o altura,altura
+pesquisar profundidade de vau,profundidade_vau
+qual a quantidade de portas portas,numero_portas
+capacidae de carga util,capacidade_carga
+quero saber sobre torque maximo nm,torque
+buscar angulo de ataque,angulo_ataque
+me diga a horario de funcionamento da loja,fora_do_catalogo
+qual o quanto pode rebocar,capacidade_reboque
+gostaria de saber o dimensoes da cacamba litros,capacidade_cacamba
+dado de quantos km roda com tanque cheio km,autonomia
+gostari de saber o qtd de cilindros cilindros,numero_cilindros
+buscarp otencia,potencia
+qual o quantoc onsome na cidade,consumo_cidade
+qual a alcance com tanque cheio,autonomia
+informe a horse power ps,potencia
+buscar velocidade final,velocidade_maxima
+pesquisar motor em litros,cilindrada
+gostaria de saber o altura total,altura
+dado de tipo de transmissao,transmissao
+quero saber sobre capacidade de tracionamento kg,capacidade_reboque
+informe a consumo urbano,consumo_cidade
+qual a angnlo de saida,angulo_saida
+me diga o preco sugerido r,preco
+me diga o eficiencia na rodovia,consumo_estrada
+comprimento do veiculo,comprimento
+valor de suspensao dianteira traseira,tipo_suspensao
+qual a piloto automatico adaptativo,fora_do_catalogo
+eficiencia na cidade km l,consumo_cidade
+pesquisar suspension type,tipo_suspensao
+conectivdiade bluetooth,fora_do_catalogo
+informe a quatno pode carregar,capacidade_carga
+qual o quantidade de lugares,numero_lugares
+qual a aceleracao zero a cem,aceleracao_0_100
+quero saber sobre qual a velocidade maxima km h,velocidade_maxima
+qual e o capacidade da cacamba,capacidade_cacamba
+quantos km roda com tanque cheio km,autonomia
+informe a tamanho da cacamba l,capacidade_cacamba
+suspensao dianteiraa e traseira,tipo_suspensao
+informe o quanto pode carregar,capacidade_carga
+qual a carregador sem fio,fora_do_catalogo
+quanto tempo para chegar a 100 segudnos,aceleracao_0_100
+dado de nm de torque,torque
+opinioes de donos,fora_do_catalogo
+entre eixos,entre_eixos
+pesquisar aceleracao de 0 a 100 s,aceleracao_0_100
+valor de distancia ao solo,vao_livre_solo
+displacement litros,cilindrada
+me diga o potencia do motor,potencia
+quanto tempo de garantia,garantia
+quao alto e o carro mm,altura
+me diga o volumed a cacamba litros,capacidade_cacamba
+potencia maxima do motor,potencia
+buscar opcoes de cor,cor
+quero saber snbre quanto tempo para chegar a 100 segundos,aceleracao_0_100
+me diga o consmuo urbano,consumo_cidade
+qual o approach angle,angulo_ataque
+valo de freios dianteiros e traseiros,tipo_freio
+valor de potencia maxima do mmotor hp,potencia
+peso em ordem de marcha,peso_vazio
+quantos lugares lugares,numero_lugares
+buscar cambio,transmissao
+qual a profundidade maxima de agua mm,profundidade_vau
+altura do veiculo m,altura
+buscar approach angle,angulo_ataque
+quero saber sobre tamanho do motor l,cilindrada
+dado de diametro das rodas polegadas,diametro_rodas
+me diga a towing capacity,capacidade_reboque
+fuel type,tipo_combustivel
+carga maxima,capacidade_carga
+me diga o quanto de agua o carro atravessa mm,profundidade_vau
+quero saber sobre consumo geral do carro,consumo_combinado
+pesquisar combustivel usado,tipo_combustivel
+buscar displacement l,cilindrada
+buscar angulo de entrada off road graus,angulo_ataque
+buscar quao comprido e o carro,comprimento
+quero saber sobrek m por litro na cidade,consumo_cidade
+me diga o garantia de fabrica,garantia
+airbags de serie,airbags
+quantidade de portaas,numero_portas
+pesquisar largura sem espelhos,largura
+informe ov elocidade maxima km h,velocidade_maxima
+buscar nm de torque nm,torque
+valor de tipo de freio,tipo_freio
+me diga a concessionaria mais proxima,fora_do_catalogo
+gostaria de saber a sistema de suspensao,tipo_suspensao
+quero saber sobre massa em ordem de marcha kg,peso_vazio
+buscar rtacao 4x4 ou 4x2,tracao
+buscar qual a velocidade maxima,largura
+dado de cor dda capota,fora_do_catalogo
+gostaria de saber o angulo de ataque graus,angulo_ataque
+tela ccentral do carro,sistema_infotainment
+me diga o climatizacao do banco,fora_do_catalogo
+informe a numero de aibrags,airbags
+gostaria de saber o capacidade do tanque,capacidade_tanque
+gostaria de saber o quantidade de airbags,airbags
+caambio,transmissao
+valor de capacidade maxima de peso kg,peso_bruto
+me diga o consumosrodoviario,consumo_estrada
+qual a pbt kg,peso_bruto
+me diga o volume da cacamba,capacidade_cacamba
+me diga a gross vehicle weight,peso_bruto
+quero saber sobre capacidade maxima de peso,peso_bruto
+potencia maxima do motor p,potencia
+qual e o peso do carro vazio,peso_vazio
+gostaria de saber a cor disponivel,cor
+consumo geral do carro km l,consumo_combinado
+me diga o quantos lugares,numero_lugares
+informe o capacidade de reboque kg,capacidade_reboque
+pesquisar quanto tempo para chegar a 100,aceleracao_0_100
+gostariaa de saber o peso vazio,peso_vazio
+buscar sensor de estacionamento,sensor_estacionamento
+pesquisar estilo do banco,fora_do_catalogo
+gostaria de saber o telefone da revenda,fora_do_catalogo
+qual e o nm de torque,torque
+central multimidia polegadas,sistema_infotainment
+qual a valor do carro,preco
+queo saber sobre quanto tempo de garantia anos,garantia
+informe a assistente de estacionamento,sensor_estacionamento
+gostaria de sabera numero de portas portas,numero_portas
+gostaria de saber o capacidade de carga util kg,capacidade_carga
+buscar eficiencia na cidade km l,consumo_cidade
+qual a peso bruto total,peso_bruto
+qual a suspensao dianteira e traseira,tipo_suspensao
+gostaria de saber a gasto de combustviel na cidade,consumo_cidade
+buscar carga util,capacidade_carga
+gostaria de saber a 0 100 segundos,aceleracao_0_100
+volume da cacamba,capacidade_cacamba
+me diga o tamanho do porta malas,capacidade_porta_malas
+espaco entre os eixos,entre_eixos
+busccar forca de torque,torque
+gostaria de saber o tanque de combustivel l,capacidade_tanque
+me diga o recall d oveiculo,fora_do_catalogo
+informe a torque em kgfm,torque
+dado de eficiencia na rodovia km l,consumo_estrada
+pesquisar capacidade do porta malas litros,capacidade_porta_malas
+quero saber sobre numero de lugares,numero_lugares
+dado de bed capacity,capacidade_cacamba
+gostaria de saber a numero de portas portas,numero_portas
+valor de quantos cilindros,numero_cilindros
+buscar peso vazio kg,peso_vazio
+quero saber sobre consumo urbano km l,consumo_cidade
+dado de carga maxima kg,capacidade_carga
+inorme o capacidade de carga util kg,capacidade_carga
+informe a numero de airbags,airbags
+gostaria de saber o brake type,tipo_freio
+dado de configuracao de cilindros,numero_cilindros
+valor de qqual o ano do carro,ano_modelo
+me diga a quantos airbags,airbags
+quero saber sobre capacidade da cacamba,capacidade_cacamba
+dado de angulo de saida,angulo_saida
+qual o latura,altura
+me diga a cor disponivel,cor
+dado de altura do veiculo,altura
+quero saber sobre tamanho do aro,diametro_rodas
+qual o estilo do banco,fora_do_catalogo
+qual a ground clearance mm,vao_livre_solo
+ground clearance,vao_livre_solo
+qual o teto solar disponival,fora_do_catalogo
+consumo estrada km l,torque
+qual o e de 2 ou 4 portas,numero_portas
+qual o aribags de serie,airbags
+gostaria de saber o autonomia do tanque,autonomia
+me diga o tipo de combustivel,tipo_combustivel
+gostaria de saber a volume do porta malas,capacidade_porta_malas
+buscar potencia maxima,potencia
+quero saber sobre abastece com o que,tipo_combustivel
+valor de velocidade final km h,velocidade_maxima
+gostaria de saber a gasto de combustivel na estrada km l,consumo_estrada
+informe o angulo de entrada off road,angulo_ataque
+qual a preco sugerido reais,preco
+buscar numero de airbags unidades,airbags
+qual e o gasto de combustivel na estrada kml,consumo_estrada
+quero saber sobre ngulo de saida graus,angulo_saida
+informe o litragem do motor,cilindrada
+informe a garantia do veiculo anos,garantia
+informe a torque maximo,torque
+pesquisar opcoes de cor,cor
+quall e o volume do tanque,capacidade_tanque
+pesquisar e 4x4 ou nao,tracao
+qual a quantidade de lugares lugares,numero_lugares
+payloaad,capacidade_carga
+pesquisar largura sem espelhos m,largura
+informe a comprimento total m,comprimento
+pesquisar comprimento total,comprimento
+gostaria de saber a aceleraca zero a cem,aceleracao_0_100
+informe a massa em ordem de marcha,peso_vazio
+me diga a quao alto e o carro mm,altura
+gostaria de saber o tracao integral,tracao
+me diga a tipo de trasnmissao,transmissao
+tamnho do motor litros,cilindrada
+qual e o vaao livre do solo,vao_livre_solo
+gostaria de saber o extensao do veiculo,comprimento
+valor de quao alto e o carro,altura
+diametro das rodas aro,diametro_rodas
+dado de gasolina ou diesel,angulo_ataque
+pesquisar consumo cidade km l,consumo_cidade
+infore a sistema de freios,tipo_freio
+qual o wheellbase mm,entre_eixos
+informe o tracao integral,tracao
+cavalos de potencia,potencia
+pesquisar altura livre do solo,vao_livre_solo
+informe a qual a cor,cor
+me diga a capacidade do tanque litros,capacidade_tanque
+informe o drivetrain,tracao
+manual do proprietario,fora_do_catalogo
+informe o carga util,capacidade_carga
+me dig aa sistema de suspensao,tipo_suspensao
+qual e o aro das rodas polegadas,velocidade_maxima
+gostaria de sbaer a autonomia maxima km,autonomia
+vaor de gearbox,transmissao
+informe a peso curb weight kg,peso_vazio
+informe a quanto tempo para chegar a 10,aceleracao_0_100
+gostaria de saber a eficiencia na rodovia km l,consumo_estrada
+buscar capacidade do porta malas,capacidade_porta_malas
+dado de capacidade tanque combustivel,capacidade_tanque
+valor de quanto consome na cidade,consumo_cidade
+me diga o infotainment,sistema_infotainment
+torque maximo nm,torque
+informe o valor do carro r,preco
+qual o gasto de combustivel na cidade km l,consumo_cidade
+qual o valor do seguro,fora_do_catalogo
+buscar largura,largura
+configuracao de cilindros,numero_cilindros
+gostaria de saber a quao comprido e o carro,comprimento
+altura em mm,altura
+me diga o cillindrada,cilindrada
+gostaria de saber o garantia de fabrica,garantia
+informe a capcaidade de reboque kg,capacidade_reboque
+buscar peso curb weight kg,peso_vazio
+inform o numero de marchas,transmissao
+gostaria de saber a valor de venda r,preco
+buscar quao largo e o carro,largura
+quero saber sobre quantos airbags,airbags
+informe a tempo de aceleracao,aceleracao_0_100
+quero saber sobre altura livre do solo,vao_livre_solo
+gostaria de saber a qual a evlocidade maxima,velocidade_maxima
+angulo de entrada off road graus,angulo_ataque
+infrme o ano do modelo,ano_modelo
+me diga a profundidade maxima de agua,sistema_infotainment
+pesquisar quanto cabe na cacamba,capacidade_cacamba
+qual a peso maximo permitido kg,peso_bruto
+dado de entre eixos mm,entre_eixos
+pesquisarano modelo,ano_modelo
+informe a tamanho da tela multimidia,sistema_infotainment
+cor da capota,fora_do_catalogo
+qual o peso maximo permitido,peso_bruto
+informe a financiamento disponivel,fora_do_catalogo
+me diga o approach angle,angulo_ataque
+me diga a carregador sem fio,fora_do_catalogo
+gostaria de saber o alcance com tanque cheio km,autonomia
+dado de capcaidade do tanque,capacidade_tanque
+buscar trunk capacity,capacidade_porta_malas
+sisteam de freios,tipo_freio
+quero saber sobre anuglo de ataque,angulo_ataque
+valor de consumo urbano km l,consumo_cidade
+buscar volume do porta malas litros,capacidade_porta_malas
+me diga o garantia,garantia
+qual e o sistema multimidia polegadas,sistema_infotainment
+buscar altura ottal,altura
+me diga o payload kg,capacidade_carga
+gostariaa de saber o opiniao sobre o design,fora_do_catalogo
+dado de angulo de saida ggraus,angulo_saida
+informe a largura total mm,largura
+valor de reclamacoes no procon,fora_do_catalogo
+quero saber sobre eficiencia na cidade km l,consumo_cidade
+qual o quantos cavalos,potencia
+qual e o altura do veicul omm,altura
+qual a autonoia km,autonomia
+qual o quanto de agua o carro atravessa mm,profundidade_vau
+valor de tipo de ffreio,tipo_freio
+informe o wifi no carro,fora_do_catalogo
+buscar wading depth,profundidade_vau
+gostaria de saber a quantidade de lugares lugares,numero_lugares
+quero saber sobre infotainment polegadas,sistema_infotainment
+buscar medida entre eixos,entre_eixos
+buscar bed capacity mm,capacidade_cacamba
+informe o sensor de estacionamennto,sensor_estacionamento
+gostaria de saber a altura total m,altura
+gostaria de saber a motlr v6 ou v8,numero_cilindros
+informe a infotainment polegadas,sistema_infotainment
+me diga o top speed,velocidade_maxima
+uqal e o medida entre eixos,entre_eixos
+informe a central multimidia,sistema_infotainment
+informe o altura total,altura
+qual o espaco entre os eixos,entre_eixos
+buscar espaco da cacamba l,capacidade_cacamba
+me diga o e 4x4 ou nao,tracao
+pesquisar preco,preco
+valor de tamanho da tela multimidia,sistema_infotainment
+quero saber sobre angulo de entrada off road,angulo_ataque
+me diga o quantos litros o motor tem litros,cilindrada
+informe o largura m,largura
+quero saber sobre brake type,tipo_freio
+me diga o abastece com o que,tipo_combustivel
+eficiencia na rodovia km l,consumo_estrada
+gostaria de saber o tamanao do tanque,capacidade_tanque
+iarbags de serie unidades,airbags
+qual e o ano modelo,ano_modelo
+pesquisar vale a pena comprar,fora_do_catalogo
+informe a suspension type,tipo_suspensao
+pesquisar dimensoes da cacamba,capacidade_cacamba
+qual a medida das rodas,diametro_rodas
+buscar coes disponiveis,cor
+buscar cilindrada,cilindrada
+buscar quantos lugares,numero_lugares
+quero saber sobre volume do atnque,capacidade_tanque
+informe o sistema de freios,tipo_freio
+informe olitragem do motor,cilindrada
+gostaria de saber o e de 2 ou 4 portas,numero_portas
+gostaria de saber o connsumo medio,consumo_combinado
+me dig aa departure angle graus,angulo_saida
+buscar numero de portas portas,numero_portas
+gostaria dm saber a autonomia maxima,autonomia
