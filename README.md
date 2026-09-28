@@ -2,7 +2,7 @@
 - Eduardo Tomazela do Nascimento rm556807
 - Léo Masago rm557768
 - Luiz Henrique Silva rm555735
-- 
+  
 # SpecRadar ML
 
 Desafio Ford 01 – Inteligência Competitiva Automotiva | FIAP Sprint 3 – IA & Machine Learning
